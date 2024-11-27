@@ -1,0 +1,11 @@
+﻿GO biological process complete,Mus musculus - REFLIST (21983),upload_1 (549),upload_1 (fold Enrichment),upload_1 (raw P-value),upload_1 (FDR)
+double-strand break repair via homologous recombination ,111,13,4.69,4.10E-06,1.13E-03
+DNA-templated DNA replication,120,14,4.67,1.84E-06,6.04E-04
+recombinational repair ,116,13,4.49,6.71E-06,1.69E-03
+viral process,120,13,4.34,9.76E-06,2.35E-03
+DNA replication ,177,18,4.07,5.11E-07,2.07E-04
+double-strand break repair,204,18,3.53,3.99E-06,1.12E-03
+DNA repair ,483,36,2.98,6.22E-09,5.32E-06
+meiotic cell cycle process,216,16,2.97,1.13E-04,1.73E-02
+cytokine production ,208,15,2.89,2.46E-04,3.13E-02
+DNA damage response,748,47,2.52,1.17E-08,8.57E-06
