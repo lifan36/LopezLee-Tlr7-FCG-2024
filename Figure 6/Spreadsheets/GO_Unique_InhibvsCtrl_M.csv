@@ -1,0 +1,7 @@
+﻿GO biological process complete,Mus musculus - REFLIST (21983),upload_1 (1463),upload_1 (fold Enrichment),upload_1 (raw P-value),upload_1 (FDR)
+regulation of response to stimulus (GO:0048583),4094,334,1.23,2.97E-05,2.36E-03
+immune system process (GO:0002376),2468,108,0.66,4.91E-07,6.82E-05
+innate immune response (GO:0045087),748,28,0.56,7.37E-04,2.98E-02
+protein-RNA complex organization (GO:0071826),179,27,2.27,5.95E-05,4.16E-03
+positive regulation of immune response (GO:0050778),690,26,0.57,1.39E-03,4.73E-02
+immunoglobulin mediated immune response (GO:0016064),288,6,0.31,7.32E-04,2.98E-02
