@@ -1,0 +1,7 @@
+"","Gene","Symbol","Name","Chr","Qualifier","Annotated.Term","Context","Proteoform","Evidence","Inferred.From","Reference.s."
+"1","Mbp","Mbp","myelin basic protein","18","","myelination","","","IBA","PTN000152735 ","J:265628 "
+"2","Mbp","Mbp","myelin basic protein","18","","myelination","","","IDA","","J:88207 "
+"3","Mbp","Mbp","myelin basic protein","18","","myelination","","","ISO","RGD:3054 ","J:155856 "
+"4","Psap","Psap","prosaposin","10","","myelination","","","IMP","MGI:2183897 ","J:78223 "
+"5","Bcas1","Bcas1","brain enriched myelin associated protein 1","2","","myelination","","","IBA","PTN002687532 ","J:265628 "
+"6","Bcas1","Bcas1","brain enriched myelin associated protein 1","2","","myelination","","","IMP","","J:242041 "

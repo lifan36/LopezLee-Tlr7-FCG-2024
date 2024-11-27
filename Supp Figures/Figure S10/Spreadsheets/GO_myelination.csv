@@ -1,0 +1,325 @@
+﻿Symbol,Name,Chr,Qualifier,Annotated Term,Context,Proteoform,Evidence,Inferred From,Reference(s)
+9630013A20Rik,RIKEN cDNA 9630013A20 gene,14,,central nervous system myelination,,,IMP,,J:256017 
+Abca2,"ATP-binding cassette, sub-family A member 2",2,,central nervous system myelin formation,happens in spinal cord|happens in telencephalic vesicle,,IMP,,J:117673 
+Abca2,"ATP-binding cassette, sub-family A member 2",2,,central nervous system myelin formation,,,ISO,RGD:620238 ,J:155856 
+Abcd1,"ATP-binding cassette, sub-family D member 1",X,,myelin maintenance,,,IMP,,J:75388 
+Abcd1,"ATP-binding cassette, sub-family D member 1",X,,myelin maintenance,,,IMP,,J:94583 
+Abcd2,"ATP-binding cassette, sub-family D member 2",15,,myelin maintenance,,,IMP,,J:94583 
+Acer3,alkaline ceramidase 3,7,,myelination,,,ISO,Q9NUN7 ,J:164563 
+Adam22,a disintegrin and metallopeptidase domain 22,5,,myelination in peripheral nervous system,happens in sciatic nerve,,IMP,MGI:3584137 ,J:99692 
+Adam22,a disintegrin and metallopeptidase domain 22,5,,myelination in peripheral nervous system,,,IMP,MGI:3584137 ,J:158973 
+Adgrg6,adhesion G protein-coupled receptor G6,10,,myelination,,,ISO,Q86SQ4 ,J:164563 
+Adgrg6,adhesion G protein-coupled receptor G6,10,,myelination in peripheral nervous system,,,IBA,PTN002634664 ,J:265628 
+Adgrg6,adhesion G protein-coupled receptor G6,10,,myelination in peripheral nervous system,,,IMP,,J:204175 
+Adgrg6,adhesion G protein-coupled receptor G6,10,,myelination in peripheral nervous system,,,IMP,,J:219865 
+Afg3l2,AFG3-like AAA ATPase 2,18,,myelination,,,IMP,MGI:1856984 ,J:106411 
+Akt1,thymoma viral proto-oncogene 1,12,,peripheral nervous system myelin maintenance,happens in sciatic nerve,,IMP,,J:160700 
+Akt1,thymoma viral proto-oncogene 1,12,,regulation of myelination,,,IMP,,J:201967 
+Akt2,thymoma viral proto-oncogene 2,7,,peripheral nervous system myelin maintenance,happens in sciatic nerve,,IMP,,J:160700 
+Amigo1,adhesion molecule with Ig like domain 1,3,,myelination,,,ISS,Q80ZD7 ,J:82518 
+Arhgef10,Rho guanine nucleotide exchange factor 10,8,,myelination in peripheral nervous system,,,ISO,O15013 ,J:164563 
+Atrn,attractin,2,,myelination,,,IMP,MGI:1856082 ,J:130463 
+B4galt5,"UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 5",2,,central nervous system myelination,,,IMP,,J:266295 
+B4galt6,"UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 6",18,,central nervous system myelination,,,IMP,,J:266295 
+Bcas1,brain enriched myelin associated protein 1,2,,myelination,,,IBA,PTN002687532 ,J:265628 
+Bcas1,brain enriched myelin associated protein 1,2,,myelination,,,IMP,,J:242041 
+Cd9,CD9 antigen,6,,paranodal junction assembly,,,IDA,,J:87762 
+Cdh2,cadherin 2,18,,regulation of myelination,,,ISO,RGD:69280 ,J:155856 
+Ckap5,cytoskeleton associated protein 5,2,,central nervous system myelin formation,"happens in optic nerve,happens in spinal cord,happens in cerebellum,happens in sciatic nerve,happens in corpus callosum",,IMP,MGI:3051635 MGI:5570192 ,J:238707 
+Cldn5,claudin 5,16,,myelination,,,ISO,RGD:68431 ,J:155856 
+Clu,clusterin,14,,central nervous system myelin maintenance,,,ISO,P10909 ,J:164563 
+Cmtm8,CKLF-like MARVEL transmembrane domain containing 8,9,,myelination,,,IBA,PTN000512260 ,J:265628 
+Cntn1,contactin 1,15,,central nervous system myelin formation,happens in spinal cord,,IGI,MGI:96912 ,J:281631 
+Cntn1,contactin 1,15,,myelination,"happens in optic nerve,happens in spinal cord",,IGI,MGI:96912 ,J:281631 
+Cntn1,contactin 1,15,,myelination,"happens in optic nerve,happens in spinal cord",,IMP,MGI:5050725 ,J:281631 
+Cntn2,contactin 2,1,,central nervous system myelination,happens in optic nerve,,IMP,MGI:2181052 ,J:138244 
+Cntnap1,contactin associated protein-like 1,11,,central nervous system myelination,,,ISO,P78357 ,J:164563 
+Cntnap1,contactin associated protein-like 1,11,,myelination,happens in optic nerve,,IGI,MGI:1914047 ,J:281631 
+Cntnap1,contactin associated protein-like 1,11,,myelination,happens in optic nerve,,IGI,MGI:96912 ,J:281631 
+Cntnap1,contactin associated protein-like 1,11,,myelination in peripheral nervous system,,,ISO,P78357 ,J:164563 
+Cntnap1,contactin associated protein-like 1,11,,paranodal junction assembly,,,IMP,MGI:3026869 ,J:108683 
+Cntnap1,contactin associated protein-like 1,11,,paranodal junction assembly,,,IMP,,J:107653 
+Cntnap1,contactin associated protein-like 1,11,,paranodal junction assembly,,,IMP,,J:165697 
+Cntnap1,contactin associated protein-like 1,11,,paranodal junction assembly,,,ISO,P78357 ,J:164563 
+Cntnap2,contactin associated protein-like 2,6,,central nervous system myelination,"is a part of grooming behavior,is a part of neuronal action potential,is a part of excitatory postsynaptic potential,is a part of motor behavior,happens in pyramidal neuron,happens in gray matter",,IMP,MGI:2677631 ,J:285598 
+Cntnap2,contactin associated protein-like 2,6,,myelination,happens in optic nerve,,IGI,MGI:1858201 ,J:281631 
+Cntnap2,contactin associated protein-like 2,6,,myelination,happens in optic nerve,,IGI,MGI:96912 ,J:281631 
+Cst7,cystatin F (leukocystatin),2,,positive regulation of myelination,,,IBA,PTN002932287 ,J:265628 
+Cst7,cystatin F (leukocystatin),2,,positive regulation of myelination,,,IMP,MGI:5910746 ,J:242069 
+Ctnnb1,catenin beta 1,9,,regulation of myelination,,,IMP,MGI:1858008 ,J:150044 
+Ctsc,cathepsin C,7,,negative regulation of myelination,,,IDA,,J:242069 
+Ctsc,cathepsin C,7,,negative regulation of myelination,,,IMP,MGI:5910745 ,J:242069 
+Cxcr4,C-X-C motif chemokine receptor 4,1,,myelin maintenance,,,IMP,,J:161391 
+Cyfip1,cytoplasmic FMR1 interacting protein 1,7,,regulation of myelination,,,ISO,RGD:1310332 ,J:155856 
+Dag1,dystroglycan 1,9,,myelination in peripheral nervous system,,,IMP,,J:83782 
+Dag1,dystroglycan 1,9,,positive regulation of myelination,,,ISO,RGD:621890 ,J:155856 
+Degs1,"delta 4-desaturase, sphingolipid 1",1,,myelin maintenance,,,ISO,O15121 ,J:164563 
+Degs1l,"delta 4-desaturase, sphingolipid 1 like",1,,myelin maintenance,,,ISO,O15121 ,J:164563 
+Dicer1,"dicer 1, ribonuclease type III",12,,peripheral nervous system myelin formation,,,IMP,,J:160526 
+Dicer1,"dicer 1, ribonuclease type III",12,,peripheral nervous system myelin formation,,,IMP,,J:164021 
+Dicer1,"dicer 1, ribonuclease type III",12,,positive regulation of myelination,,,IMP,MGI:3589208 ,J:164021 
+Dicer1,"dicer 1, ribonuclease type III",12,,positive regulation of myelination,,,IMP,,J:160526 
+Dicer1,"dicer 1, ribonuclease type III",12,,regulation of myelination,,,IMP,,J:158669 
+Dlg1,discs large MAGUK scaffold protein 1,16,,regulation of myelination,,,IMP,,J:160700 
+Egr2,early growth response 2,10,,myelination,,,IMP,MGI:1931056 ,J:75421 
+Egr2,early growth response 2,10,,myelination,,,IMP,MGI:1931056 MGI:2183227 ,J:159829 
+Egr2,early growth response 2,10,,myelination,,,IMP,MGI:2651549 MGI:3052515 ,J:159829 
+Egr2,early growth response 2,10,,myelination,,,IMP,MGI:3574072 ,J:99824 
+Egr2,early growth response 2,10,,positive regulation of myelination,,,IMP,,J:21073 
+Eif2ak3,eukaryotic translation initiation factor 2 alpha kinase 3,6,,negative regulation of myelination,,,IMP,MGI:2177666 ,J:99655 
+Eif2b2,"eukaryotic translation initiation factor 2B, subunit 2 beta",12,,myelination,,,ISO,P49770 ,J:164563 
+Eif2b4,"eukaryotic translation initiation factor 2B, subunit 4 delta",5,,myelination,,,ISO,Q9UI10 ,J:164563 
+Eif2b5,"eukaryotic translation initiation factor 2B, subunit 5 epsilon",16,,myelination,,,ISO,Q13144 ,J:164563 
+Enpp1,ectonucleotide pyrophosphatase/phosphodiesterase 1,10,,central nervous system myelination,is a part of spinal cord development,,IMP,MGI:1857079 ,J:285488 
+Epb41l3,erythrocyte membrane protein band 4.1 like 3,17,,myelin maintenance,,,IMP,,J:177866 
+Epb41l3,erythrocyte membrane protein band 4.1 like 3,17,,paranodal junction assembly,,,IMP,,J:177866 
+Erbb2,erb-b2 receptor tyrosine kinase 2,11,,myelination,,,IMP,MGI:2177255 ,J:75421 
+Ercc2,"excision repair cross-complementing rodent repair deficiency, complementation group 2",7,,central nervous system myelin formation,,,IMP,MGI:2183949 ,J:130306 
+Fa2h,fatty acid 2-hydroxylase,8,,central nervous system myelin maintenance,happens in spinal cord,,IMP,MGI:3829000 ,J:143373 
+Fa2h,fatty acid 2-hydroxylase,8,,central nervous system myelin maintenance,"happens in spinal cord,happens in optic nerve",,IMP,MGI:4430585 ,J:171655 
+Fa2h,fatty acid 2-hydroxylase,8,,peripheral nervous system myelin maintenance,happens in sciatic nerve,,IMP,MGI:3829000 ,J:143373 
+Fgfr3,fibroblast growth factor receptor 3,5,,central nervous system myelination,happens in brain,,IMP,MGI:1931521 ,J:81919 
+Fig4,FIG4 phosphoinositide 5-phosphatase,10,,myelin assembly,"happens in sciatic nerve,happens in common peroneal nerve",,IGI,MGI:1924366 ,J:177998 
+Fig4,FIG4 phosphoinositide 5-phosphatase,10,,myelination,happens in sciatic nerve,,IGI,MGI:1924366 ,J:177998 
+Fig4,FIG4 phosphoinositide 5-phosphatase,10,,myelination,happens in sciatic nerve,,IMP,MGI:3716838 ,J:177998 
+Fig4,FIG4 phosphoinositide 5-phosphatase,10,,negative regulation of myelination,negatively regulates myelination,,IGI,MGI:1924366 ,J:177998 
+Fig4,FIG4 phosphoinositide 5-phosphatase,10,,negative regulation of myelination,negatively regulates myelination,,IMP,MGI:3716838 ,J:177998 
+Fyn,Fyn proto-oncogene,10,,myelination,,,TAS,,J:74532 
+Gal3st1,galactose-3-O-sulfotransferase 1,11,,myelination,,,IBA,PTN002685267 ,J:265628 
+Gal3st1,galactose-3-O-sulfotransferase 1,11,,myelination,,,IMP,MGI:2386400 ,J:78560 
+Galc,galactosylceramidase,12,,myelination,,,IMP,MGI:1856218 ,J:78223 
+Gjc3,"gap junction protein, gamma 3",5,,myelination,,,IMP,MGI:3619604 ,J:105700 
+Gnpat,glyceronephosphate O-acyltransferase,8,,myelination,,,IMP,MGI:2670461 ,J:148119 
+Gnpat,glyceronephosphate O-acyltransferase,8,,paranodal junction assembly,,,IMP,MGI:2670461 ,J:148119 
+Gpc1,glypican 1,1,,myelin assembly,,,ISO,RGD:61853 ,J:155856 
+Gpm6b,glycoprotein m6b,X,,central nervous system myelination,,,IBA,PTN002617883 ,J:265628 
+Hes5,hes family bHLH transcription factor 5,4,,central nervous system myelination,happens in brain,,IMP,MGI:2149674 ,J:119556 
+Hes5,hes family bHLH transcription factor 5,4,,regulation of myelination,,,IMP,MGI:2149674 ,J:119556 
+Hexa,hexosaminidase A,9,,myelination,,,IGI,MGI:96074 ,J:41920 
+Hexb,hexosaminidase B,13,,myelination,,,IGI,MGI:96073 ,J:41920 
+Hgf,hepatocyte growth factor,5,,positive regulation of myelination,,,ISO,RGD:2794 ,J:155856 
+Hnrnpk,heterogeneous nuclear ribonucleoprotein K,13,,positive regulation of myelination,,,ISO,RGD:71058 ,J:155856 
+Hycc1,hyccin PI4KA lipid kinase complex subunit 1,5,,myelination,,,IMP,,J:228502 
+Id4,inhibitor of DNA binding 4,13,,central nervous system myelination,happens in brain subventricular zone,,IMP,MGI:3579084 ,J:156121 
+Ifng,interferon gamma,10,,negative regulation of myelination,,,IDA,,J:99655 
+Igf1,insulin-like growth factor 1,10,,positive regulation of myelination,,,IDA,,J:252137 
+Ilk,integrin linked kinase,7,,myelin assembly,,,ISO,RGD:620063 ,J:155856 
+Ilk,integrin linked kinase,7,,myelination in peripheral nervous system,happens in sciatic nerve,,IMP,MGI:3653044 MGI:4359600 ,J:163221 
+Itgax,integrin alpha X,7,,positive regulation of myelination,,,IDA,,J:252137 
+Itgb4,integrin beta 4,11,,myelination in peripheral nervous system,,,IGI,MGI:97631 ,J:261524 
+Itgb4,integrin beta 4,11,,peripheral nervous system myelin formation,,,IGI,MGI:97631 ,J:261524 
+Jam2,junction adhesion molecule 2,16,,negative regulation of myelination,,,IMP,,J:240335 
+Jam3,junction adhesion molecule 3,9,,myelination,,,IMP,,J:127609 
+Kcnj10,"potassium inwardly-rectifying channel, subfamily J, member 10",1,,central nervous system myelination,"happens in cerebellum white matter,happens in brain white matter,happens in thalamus,happens in corpus callosum",,IMP,MGI:3655847 MGI:3761690 ,J:126082 
+Kel,Kell blood group,6,,myelination,"happens in sciatic nerve,happens in spinal cord ventral horn",,IMP,MGI:5581644 ,J:206464 
+Kif14,kinesin family member 14,1,,regulation of myelination,,,IMP,,J:195809 
+Kif14,kinesin family member 14,1,,regulation of myelination,,,IMP,,J:215396 
+Large1,LARGE xylosyl- and glucuronyltransferase 1,8,,myelination,,,IMP,MGI:1856965 ,J:291123 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,myelination,,,IDA,,J:105260 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,myelination,,,IMP,MGI:1856594 ,J:105260 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,myelination,,,IMP,MGI:1856594 ,J:92324 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,myelination in peripheral nervous system,,,IBA,PTN002519797 ,J:265628 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,myelination in peripheral nervous system,,,IMP,MGI:1856594 ,J:11392 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,myelination in peripheral nervous system,happens in sciatic nerve,,IMP,MGI:1856594 ,J:49329 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,myelination in peripheral nervous system,happens in sciatic nerve,,IMP,MGI:4359600 MGI:4441311 ,J:158973 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,myelination in peripheral nervous system,,,IMP,MGI:4439269 ,J:166449 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,regulation of myelination,,,IDA,,J:105260 
+Lgi4,"leucine-rich repeat LGI family, member 4",7,,regulation of myelination,,,ISO,Q8N135 ,J:164563 
+Lpin1,lipin 1,12,,negative regulation of myelination,,,ISO,RGD:1307646 ,J:155856 
+Mag,myelin-associated glycoprotein,7,,central nervous system myelin formation,happens in spinal cord,,IGI,MGI:105980 ,J:281631 
+Mag,myelin-associated glycoprotein,7,,central nervous system myelination,,,IMP,,J:46770 
+Mag,myelin-associated glycoprotein,7,,myelination,"happens in optic nerve,happens in spinal cord",,IGI,MGI:105980 ,J:281631 
+Mag,myelin-associated glycoprotein,7,,myelination,happens in optic nerve,,IGI,MGI:1858201 ,J:281631 
+Mag,myelin-associated glycoprotein,7,,myelination,happens in optic nerve,,IGI,MGI:1914047 ,J:281631 
+Mag,myelin-associated glycoprotein,7,,myelination,"happens in optic nerve,happens in spinal cord",,IMP,MGI:1857216 ,J:281631 
+Mag,myelin-associated glycoprotein,7,,positive regulation of myelination,,,IMP,,J:60058 
+Mal,"myelin and lymphocyte protein, T cell differentiation protein",2,,central nervous system myelination,happens in optic nerve,,IMP,MGI:3053860 ,J:92517 
+Mal,"myelin and lymphocyte protein, T cell differentiation protein",2,,myelination,,,IBA,PTN000512260 ,J:265628 
+Mal,"myelin and lymphocyte protein, T cell differentiation protein",2,,myelination,happens in optic nerve,,IMP,,J:65204 
+Mal,"myelin and lymphocyte protein, T cell differentiation protein",2,,myelination,,,ISO,RGD:3037 ,J:155856 
+Mal2,"mal, T cell differentiation protein 2",15,,myelination,,,IBA,PTN000512260 ,J:265628 
+Mall,"mal, T cell differentiation protein-like",2,,myelination,,,IBA,PTN000512260 ,J:265628 
+Marveld1,MARVEL (membrane-associating) domain containing 1,19,,myelination,,,IBA,PTN000512260 ,J:265628 
+Mbp,myelin basic protein,18,,myelination,,,IBA,PTN000152735 ,J:265628 
+Mbp,myelin basic protein,18,,myelination,,,IDA,,J:88207 
+Mbp,myelin basic protein,18,,myelination,,,ISO,RGD:3054 ,J:155856 
+Mir23a,microRNA 23a,8,,positive regulation of myelination,,,IDA,,J:201967 
+Mir23b,microRNA 23b,13,,myelination,,,IDA,,J:164021 
+Mir24-1,microRNA 24-1,13,,myelination,,,IDA,,J:164021 
+Mir24-2,microRNA 24-2,8,,myelination,,,IDA,,J:164021 
+Mir27b,microRNA 27b,13,,myelination,,,IDA,,J:164021 
+Mir30a,microRNA 30a,1,,myelination,,,IDA,,J:164021 
+Mir34a,microRNA 34a,4,,myelination,,,IDA,,J:164021 
+Mir100,microRNA 100,9,,myelination,,,IDA,,J:164021 
+Mir138-1,microRNA 138-1,9,,myelination,,,IDA,,J:164021 
+Mir138-2,microRNA 138-2,8,,myelination,,,IDA,,J:164021 
+Mir140,microRNA 140,8,,myelination,,,IDA,,J:164021 
+Mir146b,microRNA 146b,19,,myelination,,,IDA,,J:164021 
+Mir195a,microRNA 195a,11,,myelination,,,IDA,,J:164021 
+Mir204,microRNA 204,19,,myelination,,,IDA,,J:164021 
+Mir219a-1,microRNA 219a-1,17,,regulation of myelination,,,IDA,,J:158669 
+Mir219a-2,microRNA 219a-2,2,,regulation of myelination,,,IDA,,J:158669 
+Mir338,microRNA 338,11,,myelination,,,IDA,,J:164021 
+Mpdz,multiple PDZ domain crumbs cell polarity complex component,4,,myelination,,,ISO,RGD:3105 ,J:155856 
+Mpz,myelin protein zero,1,,myelination,,,IBA,PTN002676778 ,J:265628 
+Mpz,myelin protein zero,1,,myelination,,,IMP,MGI:2384133 ,J:166463 
+Mpz,myelin protein zero,1,,myelination,,,ISO,P25189 ,J:164563 
+Mtmr2,myotubularin related protein 2,9,,myelin assembly,,,IGI,MGI:1335106 ,J:177998 
+Mtmr2,myotubularin related protein 2,9,,myelin assembly,"happens in sciatic nerve,happens in common peroneal nerve",,IGI,MGI:2143585 ,J:177998 
+Mtmr2,myotubularin related protein 2,9,,myelin assembly,"happens in common peroneal nerve,happens in sciatic nerve",,IMP,MGI:3513454 ,J:177998 
+Mtmr2,myotubularin related protein 2,9,,myelination,happens in sciatic nerve,,IGI,MGI:2143585 ,J:177998 
+Mtmr2,myotubularin related protein 2,9,,negative regulation of myelination,negatively regulates myelination,,IGI,MGI:2143585 ,J:177998 
+Mtmr2,myotubularin related protein 2,9,,negative regulation of myelination,"happens in Schwann cell,happens in dorsal root ganglion",,IMP,MGI:3513454 ,J:151079 
+Mtor,mechanistic target of rapamycin kinase,4,,regulation of myelination,,,IMP,,J:201967 
+Myo5a,myosin VA,9,,myelination,,,IMP,MGI:1856005 ,J:106960 
+Myoc,myocilin,1,,myelination in peripheral nervous system,,,IMP,,J:203534 
+Myrf,myelin regulatory factor,19,,central nervous system myelin maintenance,,,IBA,PTN002660226 ,J:265628 
+Myrf,myelin regulatory factor,19,,central nervous system myelin maintenance,,,IMP,,J:187678 
+Myrf,myelin regulatory factor,19,,central nervous system myelination,,,IMP,,J:150563 
+Myrf,myelin regulatory factor,19,,central nervous system myelination,,,IMP,,J:205136 
+Myrf,myelin regulatory factor,19,,central nervous system myelination,,,IMP,,J:236148 
+Myrf,myelin regulatory factor,19,,positive regulation of myelination,,,IMP,,J:150563 
+Myrf,myelin regulatory factor,19,,positive regulation of myelination,,,IMP,,J:267268 
+Nab1,Ngfi-A binding protein 1,1,,myelination,,,IGI,MGI:107563 ,J:99824 
+Nab2,Ngfi-A binding protein 2,10,,myelination,,,IGI,MGI:107564 ,J:99824 
+Ncmap,noncompact myelin associated protein,4,,peripheral nervous system myelin formation,,,IBA,PTN002186136 ,J:265628 
+Ncmap,noncompact myelin associated protein,4,,peripheral nervous system myelin formation,,,ISO,RGD:1587554 ,J:155856 
+Ncmap,noncompact myelin associated protein,4,,positive regulation of myelination,,,ISO,RGD:1587554 ,J:155856 
+Ncmap,noncompact myelin associated protein,4,,regulation of myelination,,,IEA,IPR038940 ,J:72247 
+Ncstn,nicastrin,1,,central nervous system myelination,,,IMP,MGI:3796837 ,J:234705 
+Ndrg1,N-myc downstream regulated gene 1,15,,peripheral nervous system myelin maintenance,,,IMP,,J:89888 
+Nf1,neurofibromin 1,11,,myelination in peripheral nervous system,,,IMP,,J:59850 
+Nfasc,neurofascin,1,,paranodal junction assembly,,,IMP,MGI:3808598 ,J:107591 
+Nfasc,neurofascin,1,,paranodal junction assembly,,,IMP,MGI:4837620 ,J:159621 
+Nfasc,neurofascin,1,,paranodal junction assembly,,,IMP,,J:145846 
+Ngfr,"nerve growth factor receptor (TNFR superfamily, member 16)",11,,positive regulation of myelination,,,ISO,RGD:3177 ,J:155856 
+Nkx6-2,NK6 homeobox 2,7,,central nervous system myelination,happens in white matter,,IMP,MGI:3522433 ,J:94807 
+Nkx6-2,NK6 homeobox 2,7,,regulation of myelination,,,IMP,,J:94807 
+Nrdc,nardilysin convertase,4,,positive regulation of myelination,,,IMP,,J:155532 
+Nrg1,neuregulin 1,8,,myelination in peripheral nervous system,,,IMP,,J:217815 
+Nrg1,neuregulin 1,8,NOT,positive regulation of myelination,"happens in neuron,happens in sciatic nerve",PR:Q6DR98,IMP,MGI:1928489 ,J:90038 
+Nrg1,neuregulin 1,8,,positive regulation of myelination,happens in neuron,PR:000044840,IMP,MGI:1928831 ,J:100989 
+Nrg1,neuregulin 1,8,,positive regulation of myelination,happens in brain,PR:000044840,IMP,MGI:1928831 ,J:156287 
+Nsun5,"NOL1/NOP2/Sun domain family, member 5",5,,regulation of myelination,,,IMP,,J:278623 
+Ntf3,neurotrophin 3,6,,myelination,,,ISO,RGD:619728 ,J:155856 
+Ntrk2,"neurotrophic tyrosine kinase, receptor, type 2",13,,myelination in peripheral nervous system,,,IGI,MGI:97385 ,J:162328 
+Ntrk2,"neurotrophic tyrosine kinase, receptor, type 2",13,,myelination in peripheral nervous system,,,IGI,MGI:97631 ,J:162328 
+Ntrk3,"neurotrophic tyrosine kinase, receptor, type 3",7,,myelination in peripheral nervous system,,,IGI,MGI:97384 ,J:162328 
+Ntrk3,"neurotrophic tyrosine kinase, receptor, type 3",7,,myelination in peripheral nervous system,,,IGI,MGI:97631 ,J:162328 
+Olig2,oligodendrocyte transcription factor 2,16,,myelination,,,IMP,MGI:2179048 MGI:3614399 ,J:105071 
+Omg,oligodendrocyte myelin glycoprotein,11,,central nervous system myelination,,,ISO,NP_001005898 ,J:8591 
+Ormdl1,ORM1-like 1 (S. cerevisiae),1,,myelination,happens in sciatic nerve,,IGI,MGI:1913862 ,J:285452 
+Ormdl3,ORM1-like 3 (S. cerevisiae),11,,myelination,happens in sciatic nerve,,IGI,MGI:2181669 ,J:285452 
+Pals1,"protein associated with LIN7 1, MAGUK family member",12,,myelin assembly,,,ISO,RGD:1308071 ,J:155856 
+Pals1,"protein associated with LIN7 1, MAGUK family member",12,,peripheral nervous system myelin maintenance,,,IMP,,J:159103 
+Pard3,par-3 family cell polarity regulator,8,,myelination in peripheral nervous system,,,IMP,,J:177468 
+Pard3,par-3 family cell polarity regulator,8,,positive regulation of myelination,,,IMP,,J:177468 
+Pikfyve,"phosphoinositide kinase, FYVE type zinc finger containing",1,,myelin assembly,,,IGI,MGI:1924366 ,J:177998 
+Plec,plectin,15,,myelination in peripheral nervous system,,,IMP,MGI:3721885 ,J:155511 
+Plec,plectin,15,,myelination in peripheral nervous system,,,IMP,MGI:4414774 ,J:155511 
+Plec,plectin,15,,peripheral nervous system myelin maintenance,,,IMP,MGI:3721885 ,J:199446 
+Pllp,plasma membrane proteolipid,8,,myelination,,,IBA,PTN000512260 ,J:265628 
+Plp1,proteolipid protein (myelin) 1,X,,central nervous system myelination,,,IBA,PTN002617883 ,J:265628 
+Plp1,proteolipid protein (myelin) 1,X,,central nervous system myelination,happens in spinal cord,,IMP,MGI:1856067 ,J:10575 
+Plp1,proteolipid protein (myelin) 1,X,,myelination,,,IGI,MGI:1917997 ,J:201143 
+Plp1,proteolipid protein (myelin) 1,X,,myelination,,,IMP,MGI:1856065 ,J:106960 
+Plp1,proteolipid protein (myelin) 1,X,,myelination,,,IMP,,J:242069 
+Plp1,proteolipid protein (myelin) 1,X,,myelination,,,IMP,,J:849 
+Plp1,proteolipid protein (myelin) 1,X,,myelination,,,ISO,RGD:3354 ,J:155856 
+Plp1,proteolipid protein (myelin) 1,X,,myelination,,,TAS,,J:77770 
+Pmp22,peripheral myelin protein 22,11,,myelin assembly,,,IBA,PTN000072456 ,J:265628 
+Pmp22,peripheral myelin protein 22,11,,myelin assembly,,,IMP,MGI:1856217 ,J:159829 
+Pmp22,peripheral myelin protein 22,11,,myelin assembly,,,IMP,MGI:1856217 ,J:217815 
+Pmp22,peripheral myelin protein 22,11,,myelin assembly,,,IMP,MGI:1856420 ,J:105898 
+Pmp22,peripheral myelin protein 22,11,,myelin assembly,,,IMP,MGI:2447704 ,J:157710 
+Pmp22,peripheral myelin protein 22,11,,myelin assembly,,,IMP,MGI:2447704 ,J:235660 
+Pmp22,peripheral myelin protein 22,11,,myelination,,,IMP,MGI:2447704 ,J:166463 
+Pmp22,peripheral myelin protein 22,11,,myelination,,,IMP,,J:259163 
+Pmp22,peripheral myelin protein 22,11,,myelination,,,ISO,RGD:3359 ,J:155856 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IGI,MGI:96613 ,J:261524 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IGI,MGI:97384 ,J:162328 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IGI,MGI:97385 ,J:162328 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IMP,MGI:1856217 ,J:162328 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IMP,MGI:1856217 ,J:215632 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IMP,MGI:1856217 ,J:217815 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IMP,MGI:2388488 ,J:79382 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IMP,MGI:2447704 ,J:181551 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IMP,MGI:3614822 ,J:104989 
+Pmp22,peripheral myelin protein 22,11,,myelination in peripheral nervous system,,,IMP,MGI:3614822 ,J:218183 
+Pmp22,peripheral myelin protein 22,11,,paranodal junction assembly,,,IMP,MGI:3614822 ,J:104989 
+Pomgnt1,"protein O-linked mannose beta 1,2-N-acetylglucosaminyltransferase",4,,myelination,,,IMP,MGI:3832592 ,J:291123 
+Pou3f1,"POU domain, class 3, transcription factor 1",4,,myelination,,,IMP,MGI:2387951 ,J:92324 
+Pou3f1,"POU domain, class 3, transcription factor 1",4,,myelination in peripheral nervous system,happens in sciatic nerve,,IGI,MGI:101895 ,J:83739 
+Pou3f2,"POU domain, class 3, transcription factor 2",4,,myelination in peripheral nervous system,,,IGI,MGI:101896 ,J:83739 
+Ppp3r1,"protein phosphatase 3, regulatory subunit B, alpha isoform (calcineurin B, type I)",11,,myelination in peripheral nervous system,happens in dorsal root ganglion,,IMP,MGI:3044031 ,J:144171 
+Prx,periaxin,7,,peripheral nervous system myelin formation,,,IMP,,J:62566 
+Prx,periaxin,7,,peripheral nervous system myelin maintenance,,,IBA,PTN002763386 ,J:265628 
+Prx,periaxin,7,,peripheral nervous system myelin maintenance,,,IMP,,J:62566 
+Psap,prosaposin,10,,myelination,,,IMP,MGI:2183897 ,J:78223 
+Pten,phosphatase and tensin homolog,19,,central nervous system myelin maintenance,,,IMP,,J:130843 
+Pten,phosphatase and tensin homolog,19,,myelination,happens in sciatic nerve,,IMP,,J:160700 
+Pten,phosphatase and tensin homolog,19,,negative regulation of myelination,negatively regulates myelination,,IMP,,J:160700 
+Ptn,pleiotrophin,6,,regulation of myelination,,,IMP,,J:236151 
+Ptprz1,"protein tyrosine phosphatase receptor type Z, polypeptide 1",6,,regulation of myelination,,,IMP,,J:236151 
+Qki,"quaking, KH domain containing RNA binding",17,,myelination,,,IMP,MGI:1856539 ,J:106960 
+Qki,"quaking, KH domain containing RNA binding",17,,myelination,,,IMP,,J:849 
+Rara,"retinoic acid receptor, alpha",11,,regulation of myelination,,,ISO,RGD:3534 ,J:155856 
+Rarb,"retinoic acid receptor, beta",14,,regulation of myelination,,,ISO,RGD:3535 ,J:155856 
+Rarg,"retinoic acid receptor, gamma",15,,regulation of myelination,,,ISO,RGD:1583230 ,J:155856 
+Reg2,regenerating islet-derived 2,6,,myelination,happens in hypoglossal nerve,,IMP,MGI:3812476 ,J:140023 
+Rnf10,ring finger protein 10,5,,positive regulation of myelination,,,IBA,PTN002659240 ,J:265628 
+Rnf10,ring finger protein 10,5,,positive regulation of myelination,,,ISO,RGD:1309282 ,J:155856 
+Rxra,retinoid X receptor alpha,2,,regulation of myelination,,,ISO,RGD:3610 ,J:155856 
+Rxrb,retinoid X receptor beta,17,,regulation of myelination,,,ISO,RGD:3611 ,J:155856 
+Rxrg,retinoid X receptor gamma,1,,regulation of myelination,,,ISO,RGD:620046 ,J:155856 
+S100b,"S100 protein, beta polypeptide, neural",10,,positive regulation of myelination,,,ISO,RGD:3615 ,J:155856 
+Serinc5,serine incorporator 5,13,,myelination,,,IDA,,J:105898 
+Sgms1os1,Sgms1 opposite strand transcript 1,19,,positive regulation of myelination,,,IDA,,J:201967 
+Sh3tc2,SH3 domain and tetratricopeptide repeats 2,18,,myelination in peripheral nervous system,,,IMP,MGI:4367025 ,J:198542 
+Sh3tc2,SH3 domain and tetratricopeptide repeats 2,18,,peripheral nervous system myelin maintenance,,,IMP,MGI:4367025 ,J:153705 
+Sirt2,sirtuin 2,7,,myelination in peripheral nervous system,,,IMP,,J:177468 
+Sirt2,sirtuin 2,7,,myelination in peripheral nervous system,,,ISO,RGD:621481 ,J:155856 
+Sirt2,sirtuin 2,7,,regulation of myelination,,,IMP,,J:177468 
+Sirt2,sirtuin 2,7,,regulation of myelination,,,ISO,RGD:621481 ,J:155856 
+Ski,ski sarcoma viral oncogene homolog (avian),4,,myelination in peripheral nervous system,happens in peripheral nerve,,IMP,MGI:2177555 ,J:96530 
+Slc8a3,"solute carrier family 8 (sodium/calcium exchanger), member 3",12,,myelination,,,IMP,,J:203079 
+Slc25a12,"solute carrier family 25 (mitochondrial carrier, Aralar), member 12",2,,positive regulation of myelination,,,ISO,RGD:1305181 ,J:155856 
+Slc25a46,"solute carrier family 25, member 46",18,,myelination in peripheral nervous system,,,IMP,MGI:6358090 ,J:251671 
+Sod1,"superoxide dismutase 1, soluble",16,,peripheral nervous system myelin maintenance,,,IMP,MGI:1857872 ,J:57385 
+Sox10,SRY (sex determining region Y)-box 10,15,,central nervous system myelination,,,IMP,,J:205136 
+Sox10,SRY (sex determining region Y)-box 10,15,,central nervous system myelination,,,IMP,,J:236148 
+Sox10,SRY (sex determining region Y)-box 10,15,,positive regulation of myelination,,,ISO,RGD:3735 ,J:155856 
+Tcf7l2,"transcription factor 7 like 2, T cell specific, HMG box",19,,regulation of myelination,,,IMP,,J:152576 
+Tenm4,teneurin transmembrane protein 4,7,,central nervous system myelin formation,,,IMP,,J:187705 
+Tenm4,teneurin transmembrane protein 4,7,,central nervous system myelin formation,,,ISO,Q6N022 ,J:164563 
+Tenm4,teneurin transmembrane protein 4,7,,positive regulation of myelination,,,IMP,,J:187705 
+Tenm4,teneurin transmembrane protein 4,7,,regulation of myelination,,,ISO,Q6N022 ,J:164563 
+Tg,thyroglobulin,15,,regulation of myelination,,,IMP,MGI:1856829 ,J:3079 
+Tgfb1,"transforming growth factor, beta 1",7,,myelination,,,ISO,RGD:69051 ,J:155856 
+Tlr2,toll-like receptor 2,3,,central nervous system myelin formation,,,ISO,RGD:735138 ,J:155856 
+Tmem98,transmembrane protein 98,11,,negative regulation of myelination,,,IMP,,J:267268 
+Tmem163,transmembrane protein 163,1,,myelination,,,ISO,Q8TC26 ,J:164563 
+Tnf,tumor necrosis factor,17,,negative regulation of myelination,,,ISO,RGD:3876 ,J:155856 
+Tnfrsf1b,"tumor necrosis factor receptor superfamily, member 1b",4,,positive regulation of myelination,,,IBA,PTN002933906 ,J:265628 
+Tnfrsf1b,"tumor necrosis factor receptor superfamily, member 1b",4,,positive regulation of myelination,"happens in oligodendrocyte,happens in oligodendrocyte precursor cell,regulates a function/process that happens in neuron,is a part of glial cell-neuron signaling",,IMP,,J:231813 
+Tnfrsf1b,"tumor necrosis factor receptor superfamily, member 1b",4,,regulation of myelination,"happens in microglial cell,regulates a function/process that happens in UBERON:0006134,happens in spinal cord,regulates a function/process that happens in spinal cord,is a part of regulation of neuroinflammatory response",,IGI,Q9Z0D9 ,J:240627 
+Tnfrsf21,"tumor necrosis factor receptor superfamily, member 21",17,,myelination,,,IMP,,J:205651 
+Tnfrsf21,"tumor necrosis factor receptor superfamily, member 21",17,,negative regulation of myelination,,,IBA,PTN002930692 ,J:265628 
+Tnfrsf21,"tumor necrosis factor receptor superfamily, member 21",17,,negative regulation of myelination,,,ISO,O75509 ,J:164563 
+Tppp,tubulin polymerization promoting protein,13,,myelin assembly,,,IMP,,J:279928 
+Tppp,tubulin polymerization promoting protein,13,,myelin assembly,,,ISO,RGD:1310121 ,J:155856 
+Tppp,tubulin polymerization promoting protein,13,,positive regulation of myelination,,,IMP,,J:279928 
+Tppp,tubulin polymerization promoting protein,13,,positive regulation of myelination,,,ISO,RGD:1310121 ,J:155856 
+Trf,transferrin,9,,positive regulation of myelination,,,ISO,RGD:3845 ,J:155856 
+Tsc1,TSC complex subunit 1,2,,myelination,,,IMP,MGI:2176055 MGI:2656240 ,J:121858 
+Tspan2,tetraspanin 2,3,,myelination,,,IGI,MGI:97623 ,J:201143 
+Tymp,thymidine phosphorylase,15,,regulation of myelination,,,ISO,P19971 ,J:164563 
+Ugt8a,UDP galactosyltransferase 8A,3,,myelination,,,TAS,,J:78560 
+Ugt8a,UDP galactosyltransferase 8A,3,,paranodal junction assembly,,,IMP,,J:107653 
+Ulk4,unc-51-like kinase 4,9,,central nervous system myelination,,,IMP,MGI:4362969 ,J:250131 
+Wasf3,"WASP family, member 3",5,,positive regulation of myelination,,,IDA,,J:109037 
+Wasf3,"WASP family, member 3",5,,positive regulation of myelination,,,IMP,MGI:2663235 ,J:109037 
+Xk,X-linked Kx blood group,X,,myelination,"happens in sciatic nerve,happens in spinal cord ventral horn",,IMP,MGI:5581658 ,J:206464 
+Zfp24,zinc finger protein 24,18,,myelination,,,IMP,,J:156938 
+Zfp488,zinc finger protein 488,14,,positive regulation of myelination,,,IDA,,J:263387 
+Zpr1,ZPR1 zinc finger,9,,regulation of myelination,,,IMP,,J:184463 

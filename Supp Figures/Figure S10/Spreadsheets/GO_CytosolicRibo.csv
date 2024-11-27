@@ -1,0 +1,551 @@
+﻿G,Symbol,Name,Chr,Qualifier,Annotated Term,Context,Proteoform,Evidence,Inferred From,Reference(s)
+MGI:1195458,Abce1,"ATP-binding cassette, sub-family E member 1",8,,cytosolic ribosome,,,ISO,P61221 ,J:164563 
+MGI:88056,Apod,apolipoprotein D,16,,cytosolic ribosome,,,ISO,RGD:2137 ,J:155856 
+MGI:1922702,Ascc2,activating signal cointegrator 1 complex subunit 2,11,,cytosolic ribosome,,,ISO,Q9H1I8 ,J:164563 
+MGI:1925237,Ascc3,activating signal cointegrator 1 complex subunit 3,10,,cytosolic ribosome,,,ISO,Q8N3C0 ,J:164563 
+MGI:91842,D1Pas1,"DNA segment, Chr 1, Pasteur Institute 1",1,colocalizes_with,cytosolic small ribosomal subunit,,,ISO,O00571 ,J:164563 
+MGI:103064,Ddx3x,"DEAD box helicase 3, X-linked",X,colocalizes_with,cytosolic small ribosomal subunit,,,ISO,O00571 ,J:164563 
+MGI:2145374,Dhx29,DExH-box helicase 29,13,,cytosolic small ribosomal subunit,,,ISO,Q7Z478 ,J:164563 
+MGI:1096881,Eef1a1,eukaryotic translation elongation factor 1 alpha 1,9,,cytosolic ribosome,,,ISO,P68104 ,J:164563 
+MGI:1098684,Eif2a,eukaryotic translation initiation factor 2A,3,,cytosolic small ribosomal subunit,,,IBA,PTN000325517 ,J:265628 
+MGI:1353427,Eif2ak4,eukaryotic translation initiation factor 2 alpha kinase 4,2,,cytosolic ribosome,,,ISS,P15442 ,J:113815 
+MGI:109342,Eif2d,eukaryotic translation initiation factor 2D,1,colocalizes_with,cytosolic small ribosomal subunit,,,ISO,P41214 ,J:164563 
+MGI:2385071,Etf1,eukaryotic translation termination factor 1,18,,cytosolic ribosome,,,ISO,P62495 ,J:164563 
+MGI:102547,Fau,FAU ubiquitin like and ribosomal protein S30 fusion,19,,cytosolic ribosome,,,ISO,P62861 ,J:164563 
+MGI:102547,Fau,FAU ubiquitin like and ribosomal protein S30 fusion,19,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:102547,Fau,FAU ubiquitin like and ribosomal protein S30 fusion,19,,cytosolic small ribosomal subunit,,,ISO,P62861 ,J:164563 
+MGI:102547,Fau,FAU ubiquitin like and ribosomal protein S30 fusion,19,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:2444248,Gcn1,GCN1 activator of EIF2AK4,5,,cytosolic ribosome,,,ISO,Q92616 ,J:164563 
+MGI:3646958,Gm5244,predicted pseudogene 5244,19,,cytosolic large ribosomal subunit,,,IBA,PTN000474938 ,J:265628 
+MGI:3647029,Gm6133,predicted gene 6133,18,,cytosolic large ribosomal subunit,,,IBA,PTN000174131 ,J:265628 
+MGI:3648757,Gm6525,predicted pseudogene 6525,3,,cytosolic large ribosomal subunit,,,IBA,PTN000042522 ,J:265628 
+MGI:1316728,Gspt1,G1 to S phase transition 1,16,,cytosolic ribosome,,,ISO,P15170 ,J:164563 
+MGI:1891704,Hbs1l,Hbs1-like (S. cerevisiae),10,,cytosolic ribosome,,,ISO,Q9Y450 ,J:164563 
+MGI:2443114,Larp4,La ribonucleoprotein 4,15,colocalizes_with,cytosolic small ribosomal subunit,,,ISO,Q71RC2 ,J:164563 
+MGI:1916245,Mcts1,malignant T cell amplified sequence 1,X,colocalizes_with,cytosolic small ribosomal subunit,,,ISO,Q9ULC4 ,J:164563 
+MGI:1098547,Nhp2,NHP2 ribonucleoprotein,11,,cytosolic large ribosomal subunit,,,IBA,PTN004606439 ,J:265628 
+MGI:2145154,Pelo,pelota mRNA surveillance and ribosome rescue factor,13,,cytosolic ribosome,,,ISO,Q9BRX2 ,J:164563 
+MGI:1342774,Ppargc1a,"peroxisome proliferative activated receptor, gamma, coactivator 1 alpha",5,,cytosolic ribosome,,,ISO,RGD:620925 ,J:155856 
+MGI:1889817,Repin1,replication initiator 1,6,,cytosolic ribosome,,,IDA,,J:164798 
+MGI:1929668,Rnf14,ring finger protein 14,18,,cytosolic ribosome,,,ISO,Q9UBS8 ,J:164563 
+MGI:1890215,Rnf25,ring finger protein 25,1,,cytosolic ribosome,,,ISO,Q96BH1 ,J:164563 
+MGI:1351605,Rpl3,ribosomal protein L3,15,,cytosolic large ribosomal subunit,,,IBA,PTN000146039 ,J:265628 
+MGI:1351605,Rpl3,ribosomal protein L3,15,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1351605,Rpl3,ribosomal protein L3,15,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1351605,Rpl3,ribosomal protein L3,15,,cytosolic large ribosomal subunit,,,ISO,RGD:735105 ,J:155856 
+MGI:1351605,Rpl3,ribosomal protein L3,15,,cytosolic large ribosomal subunit,,,ISO,P39023 ,J:164563 
+MGI:1351605,Rpl3,ribosomal protein L3,15,,cytosolic ribosome,,,ISO,P39023 ,J:164563 
+MGI:1913461,Rpl3l,ribosomal protein L3-like,17,,cytosolic large ribosomal subunit,,,IBA,PTN000146039 ,J:265628 
+MGI:1913461,Rpl3l,ribosomal protein L3-like,17,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1915141,Rpl4,ribosomal protein L4,9,,cytosolic large ribosomal subunit,,,IBA,PTN000454620 ,J:265628 
+MGI:1915141,Rpl4,ribosomal protein L4,9,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1915141,Rpl4,ribosomal protein L4,9,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1915141,Rpl4,ribosomal protein L4,9,,cytosolic large ribosomal subunit,,,ISO,RGD:619824 ,J:155856 
+MGI:1915141,Rpl4,ribosomal protein L4,9,,cytosolic large ribosomal subunit,,,ISO,P36578 ,J:164563 
+MGI:1915141,Rpl4,ribosomal protein L4,9,,cytosolic ribosome,,,ISO,P36578 ,J:164563 
+MGI:102854,Rpl5,ribosomal protein L5,5,,cytosolic large ribosomal subunit,,,IBA,PTN000601661 ,J:265628 
+MGI:102854,Rpl5,ribosomal protein L5,5,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:102854,Rpl5,ribosomal protein L5,5,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:102854,Rpl5,ribosomal protein L5,5,,cytosolic large ribosomal subunit,,,ISO,RGD:619825 ,J:155856 
+MGI:102854,Rpl5,ribosomal protein L5,5,,cytosolic large ribosomal subunit,,,ISO,P46777 ,J:164563 
+MGI:102854,Rpl5,ribosomal protein L5,5,,cytosolic ribosome,,,ISO,RGD:619825 ,J:155856 
+MGI:102854,Rpl5,ribosomal protein L5,5,,cytosolic ribosome,,,ISO,P46777 ,J:164563 
+MGI:108057,Rpl6,ribosomal protein L6,5,,cytosolic large ribosomal subunit,,,IBA,PTN000076315 ,J:265628 
+MGI:108057,Rpl6,ribosomal protein L6,5,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:108057,Rpl6,ribosomal protein L6,5,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:108057,Rpl6,ribosomal protein L6,5,,cytosolic large ribosomal subunit,,,ISO,RGD:619826 ,J:155856 
+MGI:108057,Rpl6,ribosomal protein L6,5,,cytosolic large ribosomal subunit,,,ISO,Q02878 ,J:164563 
+MGI:108057,Rpl6,ribosomal protein L6,5,,cytosolic ribosome,,,ISO,Q02878 ,J:164563 
+MGI:3647789,Rpl6l,ribosomal protein L6-like,10,,cytosolic large ribosomal subunit,,,ISO,Q02878 ,J:164563 
+MGI:3647789,Rpl6l,ribosomal protein L6-like,10,,cytosolic ribosome,,,ISO,Q02878 ,J:164563 
+MGI:98073,Rpl7,ribosomal protein L7,1,,cytosolic large ribosomal subunit,,,IBA,PTN000897517 ,J:265628 
+MGI:98073,Rpl7,ribosomal protein L7,1,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:98073,Rpl7,ribosomal protein L7,1,,cytosolic large ribosomal subunit,,,IDA,,J:9681 
+MGI:98073,Rpl7,ribosomal protein L7,1,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:98073,Rpl7,ribosomal protein L7,1,,cytosolic large ribosomal subunit,,,ISO,RGD:735169 ,J:155856 
+MGI:98073,Rpl7,ribosomal protein L7,1,,cytosolic large ribosomal subunit,,,ISO,P18124 ,J:164563 
+MGI:98073,Rpl7,ribosomal protein L7,1,,cytosolic ribosome,,,ISO,P18124 ,J:164563 
+MGI:1353472,Rpl7a,ribosomal protein L7A,2,,cytosolic large ribosomal subunit,,,IBA,PTN004606439 ,J:265628 
+MGI:1353472,Rpl7a,ribosomal protein L7A,2,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1353472,Rpl7a,ribosomal protein L7A,2,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1353472,Rpl7a,ribosomal protein L7A,2,,cytosolic large ribosomal subunit,,,ISO,RGD:1307586 ,J:155856 
+MGI:1353472,Rpl7a,ribosomal protein L7A,2,,cytosolic large ribosomal subunit,,,ISO,P62424 ,J:164563 
+MGI:1353472,Rpl7a,ribosomal protein L7A,2,,cytosolic ribosome,,,ISO,P62424 ,J:164563 
+MGI:1913479,Rpl7l1,ribosomal protein L7-like 1,17,,cytosolic large ribosomal subunit,,,IBA,PTN000897517 ,J:265628 
+MGI:1350927,Rpl8,ribosomal protein L8,15,,cytosolic large ribosomal subunit,,,IBA,PTN000343558 ,J:265628 
+MGI:1350927,Rpl8,ribosomal protein L8,15,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1350927,Rpl8,ribosomal protein L8,15,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1350927,Rpl8,ribosomal protein L8,15,,cytosolic large ribosomal subunit,,,ISO,RGD:619827 ,J:155856 
+MGI:1350927,Rpl8,ribosomal protein L8,15,,cytosolic large ribosomal subunit,,,ISO,P62917 ,J:164563 
+MGI:1350927,Rpl8,ribosomal protein L8,15,,cytosolic ribosome,,,ISO,P62917 ,J:164563 
+MGI:1298373,Rpl9,ribosomal protein L9,5,,cytosolic large ribosomal subunit,,,IBA,PTN000183647 ,J:265628 
+MGI:1298373,Rpl9,ribosomal protein L9,5,,cytosolic large ribosomal subunit,,,IDA,,J:49488 
+MGI:1298373,Rpl9,ribosomal protein L9,5,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1298373,Rpl9,ribosomal protein L9,5,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1298373,Rpl9,ribosomal protein L9,5,,cytosolic large ribosomal subunit,,,ISO,RGD:62049 ,J:155856 
+MGI:1298373,Rpl9,ribosomal protein L9,5,,cytosolic large ribosomal subunit,,,ISO,P32969 ,J:164563 
+MGI:1298373,Rpl9,ribosomal protein L9,5,,cytosolic ribosome,,,ISO,P32969 ,J:164563 
+MGI:3649210,Rpl9-ps1,"ribosomal protein L9, pseudogene 1",11,,cytosolic large ribosomal subunit,,,ISO,RGD:62049 ,J:155856 
+MGI:3649210,Rpl9-ps1,"ribosomal protein L9, pseudogene 1",11,,cytosolic large ribosomal subunit,,,ISO,P32969 ,J:164563 
+MGI:3649210,Rpl9-ps1,"ribosomal protein L9, pseudogene 1",11,,cytosolic ribosome,,,ISO,P32969 ,J:164563 
+MGI:3642682,Rpl9-ps6,"ribosomal protein L9, pseudogene 6",19,,cytosolic large ribosomal subunit,,,IBA,PTN000183647 ,J:265628 
+MGI:3642682,Rpl9-ps6,"ribosomal protein L9, pseudogene 6",19,,cytosolic large ribosomal subunit,,,ISO,RGD:62049 ,J:155856 
+MGI:3642682,Rpl9-ps6,"ribosomal protein L9, pseudogene 6",19,,cytosolic large ribosomal subunit,,,ISO,P32969 ,J:164563 
+MGI:3642682,Rpl9-ps6,"ribosomal protein L9, pseudogene 6",19,,cytosolic ribosome,,,ISO,P32969 ,J:164563 
+MGI:105943,Rpl10,ribosomal protein L10,X,,cytosolic large ribosomal subunit,,,IBA,PTN000197715 ,J:265628 
+MGI:105943,Rpl10,ribosomal protein L10,X,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:105943,Rpl10,ribosomal protein L10,X,,cytosolic large ribosomal subunit,,,ISO,RGD:621178 ,J:155856 
+MGI:105943,Rpl10,ribosomal protein L10,X,,cytosolic large ribosomal subunit,,,ISO,P27635 ,J:73065 
+MGI:105943,Rpl10,ribosomal protein L10,X,,cytosolic ribosome,,,ISO,P27635 ,J:164563 
+MGI:3704336,Rpl10-ps3,"ribosomal protein L10, pseudogene 3",9,,cytosolic large ribosomal subunit,,,ISO,RGD:621178 ,J:155856 
+MGI:3704336,Rpl10-ps3,"ribosomal protein L10, pseudogene 3",9,,cytosolic ribosome,,,ISO,P27635 ,J:164563 
+MGI:1343877,Rpl10a,ribosomal protein L10A,17,,cytosolic large ribosomal subunit,,,IBA,PTN004606439 ,J:265628 
+MGI:1343877,Rpl10a,ribosomal protein L10A,17,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1343877,Rpl10a,ribosomal protein L10A,17,,cytosolic large ribosomal subunit,,,ISO,RGD:620497 ,J:155856 
+MGI:1343877,Rpl10a,ribosomal protein L10A,17,,cytosolic large ribosomal subunit,,,ISO,P62906 ,J:164563 
+MGI:1343877,Rpl10a,ribosomal protein L10A,17,,cytosolic ribosome,,,ISO,P62906 ,J:164563 
+MGI:3647985,Rpl10l,ribosomal protein L10-like,12,,cytosolic large ribosomal subunit,,,IBA,PTN000197715 ,J:265628 
+MGI:3647985,Rpl10l,ribosomal protein L10-like,12,,cytosolic large ribosomal subunit,is a part of testis,,IDA,,J:197929 
+MGI:3647985,Rpl10l,ribosomal protein L10-like,12,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:3647985,Rpl10l,ribosomal protein L10-like,12,,cytosolic large ribosomal subunit,,,ISO,Q96L21 ,J:164563 
+MGI:1914275,Rpl11,ribosomal protein L11,4,,cytosolic large ribosomal subunit,,,IBA,PTN000242048 ,J:265628 
+MGI:1914275,Rpl11,ribosomal protein L11,4,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1914275,Rpl11,ribosomal protein L11,4,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1914275,Rpl11,ribosomal protein L11,4,,cytosolic large ribosomal subunit,,,ISO,RGD:1308681 ,J:155856 
+MGI:1914275,Rpl11,ribosomal protein L11,4,,cytosolic large ribosomal subunit,,,ISO,P62913 ,J:164563 
+MGI:1914275,Rpl11,ribosomal protein L11,4,,cytosolic ribosome,,,ISO,RGD:1308681 ,J:155856 
+MGI:1914275,Rpl11,ribosomal protein L11,4,,cytosolic ribosome,,,ISO,P62913 ,J:164563 
+MGI:98002,Rpl12,ribosomal protein L12,2,,cytosolic large ribosomal subunit,,,IBA,PTN000184010 ,J:265628 
+MGI:98002,Rpl12,ribosomal protein L12,2,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:98002,Rpl12,ribosomal protein L12,2,,cytosolic large ribosomal subunit,,,ISO,RGD:1565106 ,J:155856 
+MGI:98002,Rpl12,ribosomal protein L12,2,,cytosolic large ribosomal subunit,,,ISO,P30050 ,J:164563 
+MGI:98002,Rpl12,ribosomal protein L12,2,,cytosolic ribosome,,,ISO,P30050 ,J:164563 
+MGI:105922,Rpl13,ribosomal protein L13,8,,cytosolic large ribosomal subunit,,,IBA,PTN000197497 ,J:265628 
+MGI:105922,Rpl13,ribosomal protein L13,8,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:105922,Rpl13,ribosomal protein L13,8,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:105922,Rpl13,ribosomal protein L13,8,,cytosolic large ribosomal subunit,,,ISO,RGD:621179 ,J:155856 
+MGI:105922,Rpl13,ribosomal protein L13,8,,cytosolic large ribosomal subunit,,,ISO,P26373 ,J:164563 
+MGI:105922,Rpl13,ribosomal protein L13,8,,cytosolic ribosome,,,ISO,P26373 ,J:164563 
+MGI:3642685,Rpl13-ps6,"ribosomal protein L13, pseudogene 6",3,,cytosolic large ribosomal subunit,,,ISO,P26373 ,J:164563 
+MGI:3642685,Rpl13-ps6,"ribosomal protein L13, pseudogene 6",3,,cytosolic ribosome,,,ISO,P26373 ,J:164563 
+MGI:1351455,Rpl13a,ribosomal protein L13A,7,,cytosolic large ribosomal subunit,,,IBA,PTN000166703 ,J:265628 
+MGI:1351455,Rpl13a,ribosomal protein L13A,7,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1351455,Rpl13a,ribosomal protein L13A,7,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1351455,Rpl13a,ribosomal protein L13A,7,,cytosolic large ribosomal subunit,,,ISO,RGD:628697 ,J:155856 
+MGI:1351455,Rpl13a,ribosomal protein L13A,7,,cytosolic large ribosomal subunit,,,ISO,P40429 ,J:164563 
+MGI:1351455,Rpl13a,ribosomal protein L13A,7,,cytosolic ribosome,,,ISO,P40429 ,J:164563 
+MGI:1914365,Rpl14,ribosomal protein L14,9,,cytosolic large ribosomal subunit,,,IBA,PTN000874665 ,J:265628 
+MGI:1914365,Rpl14,ribosomal protein L14,9,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1914365,Rpl14,ribosomal protein L14,9,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1914365,Rpl14,ribosomal protein L14,9,,cytosolic large ribosomal subunit,,,ISO,RGD:621180 ,J:155856 
+MGI:1914365,Rpl14,ribosomal protein L14,9,,cytosolic large ribosomal subunit,,,ISO,P50914 ,J:164563 
+MGI:1914365,Rpl14,ribosomal protein L14,9,,cytosolic ribosome,,,ISO,P50914 ,J:164563 
+MGI:1913730,Rpl15,ribosomal protein L15,14,,cytosolic large ribosomal subunit,,,IBA,PTN000217960 ,J:265628 
+MGI:1913730,Rpl15,ribosomal protein L15,14,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1913730,Rpl15,ribosomal protein L15,14,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1913730,Rpl15,ribosomal protein L15,14,,cytosolic large ribosomal subunit,,,ISO,RGD:621181 ,J:155856 
+MGI:1913730,Rpl15,ribosomal protein L15,14,,cytosolic large ribosomal subunit,,,ISO,P61313 ,J:164563 
+MGI:1913730,Rpl15,ribosomal protein L15,14,,cytosolic ribosome,,,ISO,P61313 ,J:164563 
+MGI:2448270,Rpl17,ribosomal protein L17,18,,cytosolic large ribosomal subunit,,,IBA,PTN000174131 ,J:265628 
+MGI:2448270,Rpl17,ribosomal protein L17,18,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:2448270,Rpl17,ribosomal protein L17,18,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:2448270,Rpl17,ribosomal protein L17,18,,cytosolic large ribosomal subunit,,,ISO,RGD:1303019 ,J:155856 
+MGI:2448270,Rpl17,ribosomal protein L17,18,,cytosolic large ribosomal subunit,,,ISO,P18621 ,J:164563 
+MGI:2448270,Rpl17,ribosomal protein L17,18,,cytosolic ribosome,,,ISO,P18621 ,J:164563 
+MGI:3802129,Rpl17-ps8,"ribosomal protein L17, pseudogene 8",X,,cytosolic large ribosomal subunit,,,ISO,P18621 ,J:164563 
+MGI:3802129,Rpl17-ps8,"ribosomal protein L17, pseudogene 8",X,,cytosolic ribosome,,,ISO,P18621 ,J:164563 
+MGI:98003,Rpl18,ribosomal protein L18,7,,cytosolic large ribosomal subunit,,,IBA,PTN000859219 ,J:265628 
+MGI:98003,Rpl18,ribosomal protein L18,7,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:98003,Rpl18,ribosomal protein L18,7,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:98003,Rpl18,ribosomal protein L18,7,,cytosolic large ribosomal subunit,,,ISO,RGD:621182 ,J:155856 
+MGI:98003,Rpl18,ribosomal protein L18,7,,cytosolic large ribosomal subunit,,,ISO,Q07020 ,J:164563 
+MGI:98003,Rpl18,ribosomal protein L18,7,,cytosolic ribosome,,,ISO,Q07020 ,J:164563 
+MGI:1924058,Rpl18a,ribosomal protein L18A,8,,cytosolic large ribosomal subunit,,,IBA,PTN000006274 ,J:265628 
+MGI:1924058,Rpl18a,ribosomal protein L18A,8,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1924058,Rpl18a,ribosomal protein L18A,8,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1924058,Rpl18a,ribosomal protein L18A,8,,cytosolic large ribosomal subunit,,,ISO,RGD:1302976 ,J:155856 
+MGI:1924058,Rpl18a,ribosomal protein L18A,8,,cytosolic large ribosomal subunit,,,ISO,Q02543 ,J:164563 
+MGI:1924058,Rpl18a,ribosomal protein L18A,8,,cytosolic ribosome,,,ISO,Q02543 ,J:164563 
+MGI:98020,Rpl19,ribosomal protein L19,11,,cytosolic large ribosomal subunit,,,IBA,PTN000076564 ,J:265628 
+MGI:98020,Rpl19,ribosomal protein L19,11,,cytosolic large ribosomal subunit,is a part of testis,,IDA,,J:197929 
+MGI:98020,Rpl19,ribosomal protein L19,11,,cytosolic large ribosomal subunit,,,IDA,,J:31514 
+MGI:98020,Rpl19,ribosomal protein L19,11,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:98020,Rpl19,ribosomal protein L19,11,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:98020,Rpl19,ribosomal protein L19,11,,cytosolic large ribosomal subunit,,,ISO,RGD:621183 ,J:155856 
+MGI:98020,Rpl19,ribosomal protein L19,11,,cytosolic large ribosomal subunit,,,ISO,P84098 ,J:164563 
+MGI:98020,Rpl19,ribosomal protein L19,11,,cytosolic ribosome,,,ISO,P84098 ,J:164563 
+MGI:1278340,Rpl21,ribosomal protein L21,5,,cytosolic large ribosomal subunit,,,IBA,PTN001463935 ,J:265628 
+MGI:1278340,Rpl21,ribosomal protein L21,5,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1278340,Rpl21,ribosomal protein L21,5,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1278340,Rpl21,ribosomal protein L21,5,,cytosolic large ribosomal subunit,,,ISO,RGD:68390 ,J:155856 
+MGI:1278340,Rpl21,ribosomal protein L21,5,,cytosolic large ribosomal subunit,,,ISO,P46778 ,J:164563 
+MGI:1278340,Rpl21,ribosomal protein L21,5,,cytosolic ribosome,,,ISO,P46778 ,J:164563 
+MGI:99262,Rpl22,ribosomal protein L22,4,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:99262,Rpl22,ribosomal protein L22,4,,cytosolic large ribosomal subunit,,,ISO,RGD:621189 ,J:155856 
+MGI:99262,Rpl22,ribosomal protein L22,4,,cytosolic large ribosomal subunit,,,ISO,P35268 ,J:164563 
+MGI:99262,Rpl22,ribosomal protein L22,4,,cytosolic ribosome,,,ISO,P35268 ,J:164563 
+MGI:1929455,Rpl23,ribosomal protein L23,11,,cytosolic large ribosomal subunit,,,IBA,PTN000205184 ,J:265628 
+MGI:1929455,Rpl23,ribosomal protein L23,11,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1929455,Rpl23,ribosomal protein L23,11,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1929455,Rpl23,ribosomal protein L23,11,,cytosolic large ribosomal subunit,,,ISO,RGD:62067 ,J:155856 
+MGI:1929455,Rpl23,ribosomal protein L23,11,,cytosolic large ribosomal subunit,,,ISO,P62829 ,J:164563 
+MGI:1929455,Rpl23,ribosomal protein L23,11,,cytosolic ribosome,,,ISO,X52839 ,J:66696 
+MGI:1929455,Rpl23,ribosomal protein L23,11,,cytosolic ribosome,,,ISO,P62829 ,J:164563 
+MGI:3040672,Rpl23a,ribosomal protein L23A,11,,cytosolic large ribosomal subunit,,,IBA,PTN000178698 ,J:265628 
+MGI:3040672,Rpl23a,ribosomal protein L23A,11,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:3040672,Rpl23a,ribosomal protein L23A,11,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:3040672,Rpl23a,ribosomal protein L23A,11,,cytosolic large ribosomal subunit,,,ISO,RGD:1304897 ,J:155856 
+MGI:3040672,Rpl23a,ribosomal protein L23A,11,,cytosolic large ribosomal subunit,,,ISO,P62750 ,J:164563 
+MGI:3040672,Rpl23a,ribosomal protein L23A,11,,cytosolic ribosome,,,ISO,P62750 ,J:164563 
+MGI:1915443,Rpl24,ribosomal protein L24,16,,cytosolic large ribosomal subunit,,,IBA,PTN000082479 ,J:265628 
+MGI:1915443,Rpl24,ribosomal protein L24,16,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1915443,Rpl24,ribosomal protein L24,16,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1915443,Rpl24,ribosomal protein L24,16,,cytosolic large ribosomal subunit,,,ISO,P83731 ,J:164563 
+MGI:1915443,Rpl24,ribosomal protein L24,16,,cytosolic large ribosomal subunit,,,ISO,P83732 ,J:73065 
+MGI:1915443,Rpl24,ribosomal protein L24,16,,cytosolic ribosome,,,ISO,RGD:621191 ,J:155856 
+MGI:1915443,Rpl24,ribosomal protein L24,16,,cytosolic ribosome,,,ISO,P83731 ,J:164563 
+MGI:106022,Rpl26,ribosomal protein L26,11,,cytosolic large ribosomal subunit,,,IBA,PTN000124940 ,J:265628 
+MGI:106022,Rpl26,ribosomal protein L26,11,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:106022,Rpl26,ribosomal protein L26,11,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:106022,Rpl26,ribosomal protein L26,11,,cytosolic large ribosomal subunit,,,ISO,RGD:1310607 ,J:155856 
+MGI:106022,Rpl26,ribosomal protein L26,11,,cytosolic large ribosomal subunit,,,ISO,P61254 ,J:164563 
+MGI:106022,Rpl26,ribosomal protein L26,11,,cytosolic ribosome,,,ISO,P61254 ,J:164563 
+MGI:98036,Rpl27,ribosomal protein L27,11,,cytosolic large ribosomal subunit,,,IBA,PTN000052145 ,J:265628 
+MGI:98036,Rpl27,ribosomal protein L27,11,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:98036,Rpl27,ribosomal protein L27,11,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:98036,Rpl27,ribosomal protein L27,11,,cytosolic large ribosomal subunit,,,ISO,RGD:621192 ,J:155856 
+MGI:98036,Rpl27,ribosomal protein L27,11,,cytosolic large ribosomal subunit,,,ISO,P61353 ,J:164563 
+MGI:98036,Rpl27,ribosomal protein L27,11,,cytosolic ribosome,,,ISO,P61353 ,J:164563 
+MGI:1347076,Rpl27a,ribosomal protein L27A,7,,cytosolic large ribosomal subunit,,,IBA,PTN000197373 ,J:265628 
+MGI:1347076,Rpl27a,ribosomal protein L27A,7,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1347076,Rpl27a,ribosomal protein L27A,7,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1347076,Rpl27a,ribosomal protein L27A,7,,cytosolic large ribosomal subunit,,,ISO,RGD:1309771 ,J:155856 
+MGI:1347076,Rpl27a,ribosomal protein L27A,7,,cytosolic large ribosomal subunit,,,ISO,P46776 ,J:164563 
+MGI:1347076,Rpl27a,ribosomal protein L27A,7,,cytosolic ribosome,,,IGI,S000006437 ,J:137257 
+MGI:1347076,Rpl27a,ribosomal protein L27A,7,,cytosolic ribosome,,,ISO,P46776 ,J:164563 
+MGI:3781727,Rpl27rt,"ribosomal protein L29, retrotransposed",18,,cytosolic large ribosomal subunit,,,IBA,PTN000306390 ,J:265628 
+MGI:3781727,Rpl27rt,"ribosomal protein L29, retrotransposed",18,,cytosolic large ribosomal subunit,,,ISO,RGD:62069 ,J:155856 
+MGI:3781727,Rpl27rt,"ribosomal protein L29, retrotransposed",18,,cytosolic large ribosomal subunit,,,ISO,P47914 ,J:164563 
+MGI:3781727,Rpl27rt,"ribosomal protein L29, retrotransposed",18,,cytosolic ribosome,,,ISO,P47914 ,J:164563 
+MGI:101839,Rpl28,ribosomal protein L28,7,,cytosolic large ribosomal subunit,,,IBA,PTN000057380 ,J:265628 
+MGI:101839,Rpl28,ribosomal protein L28,7,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:101839,Rpl28,ribosomal protein L28,7,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:101839,Rpl28,ribosomal protein L28,7,,cytosolic large ribosomal subunit,,,ISO,RGD:621193 ,J:155856 
+MGI:101839,Rpl28,ribosomal protein L28,7,,cytosolic large ribosomal subunit,,,ISO,P46779 ,J:164563 
+MGI:101839,Rpl28,ribosomal protein L28,7,,cytosolic ribosome,,,ISO,P46779 ,J:164563 
+MGI:99687,Rpl29,ribosomal protein L29,9,,cytosolic large ribosomal subunit,,,IBA,PTN000306390 ,J:265628 
+MGI:99687,Rpl29,ribosomal protein L29,9,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:99687,Rpl29,ribosomal protein L29,9,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:99687,Rpl29,ribosomal protein L29,9,,cytosolic large ribosomal subunit,,,ISO,RGD:62069 ,J:155856 
+MGI:99687,Rpl29,ribosomal protein L29,9,,cytosolic large ribosomal subunit,,,ISO,P47914 ,J:164563 
+MGI:99687,Rpl29,ribosomal protein L29,9,,cytosolic ribosome,,,IDA,,J:117229 
+MGI:99687,Rpl29,ribosomal protein L29,9,,cytosolic ribosome,,,ISO,P47914 ,J:164563 
+MGI:98037,Rpl30,ribosomal protein L30,15,,cytosolic large ribosomal subunit,,,IBA,PTN000154874 ,J:265628 
+MGI:98037,Rpl30,ribosomal protein L30,15,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:98037,Rpl30,ribosomal protein L30,15,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:98037,Rpl30,ribosomal protein L30,15,,cytosolic large ribosomal subunit,,,ISO,RGD:621201 ,J:155856 
+MGI:98037,Rpl30,ribosomal protein L30,15,,cytosolic large ribosomal subunit,,,ISO,P62888 ,J:164563 
+MGI:98037,Rpl30,ribosomal protein L30,15,,cytosolic ribosome,,,ISO,P62888 ,J:164563 
+MGI:2149632,Rpl31,ribosomal protein L31,1,,cytosolic large ribosomal subunit,,,IBA,PTN000102776 ,J:265628 
+MGI:2149632,Rpl31,ribosomal protein L31,1,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:2149632,Rpl31,ribosomal protein L31,1,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:2149632,Rpl31,ribosomal protein L31,1,,cytosolic large ribosomal subunit,,,ISO,RGD:621202 ,J:155856 
+MGI:2149632,Rpl31,ribosomal protein L31,1,,cytosolic large ribosomal subunit,,,ISO,P62899 ,J:164563 
+MGI:2149632,Rpl31,ribosomal protein L31,1,,cytosolic ribosome,,,ISO,P62899 ,J:164563 
+MGI:98038,Rpl32,ribosomal protein L32,6,,cytosolic large ribosomal subunit,,,IBA,PTN000601894 ,J:265628 
+MGI:98038,Rpl32,ribosomal protein L32,6,,cytosolic large ribosomal subunit,,,IDA,,J:31514 
+MGI:98038,Rpl32,ribosomal protein L32,6,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:98038,Rpl32,ribosomal protein L32,6,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:98038,Rpl32,ribosomal protein L32,6,,cytosolic large ribosomal subunit,,,ISO,RGD:621203 ,J:155856 
+MGI:98038,Rpl32,ribosomal protein L32,6,,cytosolic large ribosomal subunit,,,ISO,P62910 ,J:164563 
+MGI:98038,Rpl32,ribosomal protein L32,6,,cytosolic ribosome,,,ISO,P62910 ,J:164563 
+MGI:98039,Rpl32-ps,"ribosomal protein L32, pseudogene",3,,cytosolic large ribosomal subunit,,,IBA,PTN000601894 ,J:265628 
+MGI:3644747,Rpl32l,ribosomal protein L32-like,10,,cytosolic large ribosomal subunit,,,ISO,P62910 ,J:164563 
+MGI:3644747,Rpl32l,ribosomal protein L32-like,10,,cytosolic ribosome,,,ISO,P62910 ,J:164563 
+MGI:1915686,Rpl34,ribosomal protein L34,3,,cytosolic large ribosomal subunit,,,IBA,PTN000079604 ,J:265628 
+MGI:1915686,Rpl34,ribosomal protein L34,3,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1915686,Rpl34,ribosomal protein L34,3,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1915686,Rpl34,ribosomal protein L34,3,,cytosolic large ribosomal subunit,,,ISO,RGD:1309402 ,J:155856 
+MGI:1915686,Rpl34,ribosomal protein L34,3,,cytosolic large ribosomal subunit,,,ISO,P49207 ,J:164563 
+MGI:1915686,Rpl34,ribosomal protein L34,3,,cytosolic ribosome,,,ISO,P49207 ,J:164563 
+MGI:3704270,Rpl34-ps1,"ribosomal protein L34, pseudogene 1",6,,cytosolic large ribosomal subunit,,,ISO,RGD:1309402 ,J:155856 
+MGI:3704270,Rpl34-ps1,"ribosomal protein L34, pseudogene 1",6,,cytosolic large ribosomal subunit,,,ISO,P49207 ,J:164563 
+MGI:3704270,Rpl34-ps1,"ribosomal protein L34, pseudogene 1",6,,cytosolic ribosome,,,ISO,P49207 ,J:164563 
+MGI:3648994,Rpl34-ps2,"ribosomal protein L34, pseudogene 2",13,,cytosolic large ribosomal subunit,,,ISO,P49207 ,J:164563 
+MGI:3648994,Rpl34-ps2,"ribosomal protein L34, pseudogene 2",13,,cytosolic ribosome,,,ISO,P49207 ,J:164563 
+MGI:1913739,Rpl35,ribosomal protein L35,2,,cytosolic large ribosomal subunit,,,IBA,PTN000356124 ,J:265628 
+MGI:1913739,Rpl35,ribosomal protein L35,2,,cytosolic large ribosomal subunit,,,ISO,RGD:1303007 ,J:155856 
+MGI:1913739,Rpl35,ribosomal protein L35,2,,cytosolic large ribosomal subunit,,,ISO,P42766 ,J:164563 
+MGI:1913739,Rpl35,ribosomal protein L35,2,,cytosolic ribosome,,,ISO,P42766 ,J:164563 
+MGI:1928894,Rpl35a,ribosomal protein L35A,16,,cytosolic large ribosomal subunit,,,IBA,PTN000096770 ,J:265628 
+MGI:1928894,Rpl35a,ribosomal protein L35A,16,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1928894,Rpl35a,ribosomal protein L35A,16,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1928894,Rpl35a,ribosomal protein L35A,16,,cytosolic large ribosomal subunit,,,ISO,P18077 ,J:164563 
+MGI:1928894,Rpl35a,ribosomal protein L35A,16,,cytosolic ribosome,,,ISO,P18077 ,J:164563 
+MGI:3780170,Rpl35rt,"ribosomal protein L35, retrotransposed",1,,cytosolic large ribosomal subunit,,,ISO,RGD:1303007 ,J:155856 
+MGI:3780170,Rpl35rt,"ribosomal protein L35, retrotransposed",1,,cytosolic large ribosomal subunit,,,ISO,P42766 ,J:164563 
+MGI:3780170,Rpl35rt,"ribosomal protein L35, retrotransposed",1,,cytosolic ribosome,,,ISO,P42766 ,J:164563 
+MGI:1860603,Rpl36,ribosomal protein L36,17,,cytosolic large ribosomal subunit,,,IBA,PTN000012121 ,J:265628 
+MGI:1860603,Rpl36,ribosomal protein L36,17,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1860603,Rpl36,ribosomal protein L36,17,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1860603,Rpl36,ribosomal protein L36,17,,cytosolic large ribosomal subunit,,,ISO,RGD:62085 ,J:155856 
+MGI:1860603,Rpl36,ribosomal protein L36,17,,cytosolic large ribosomal subunit,,,ISO,Q9Y3U8 ,J:164563 
+MGI:1860603,Rpl36,ribosomal protein L36,17,,cytosolic ribosome,,,ISO,Q9Y3U8 ,J:164563 
+MGI:3644086,Rpl36-ps4,"ribosomal protein L36, pseudogene 4",17,,cytosolic large ribosomal subunit,,,IBA,PTN000012121 ,J:265628 
+MGI:3782787,Rpl36-ps12,"ribosomal protein L36, pseudogene 12",6,,cytosolic large ribosomal subunit,,,ISO,Q9Y3U8 ,J:164563 
+MGI:3782787,Rpl36-ps12,"ribosomal protein L36, pseudogene 12",6,,cytosolic ribosome,,,ISO,Q9Y3U8 ,J:164563 
+MGI:1201789,Rpl36a,ribosomal protein L36A,X,,cytosolic large ribosomal subunit,,,IBA,PTN000042522 ,J:265628 
+MGI:1201789,Rpl36a,ribosomal protein L36A,X,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1201789,Rpl36a,ribosomal protein L36A,X,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1201789,Rpl36a,ribosomal protein L36A,X,,cytosolic large ribosomal subunit,,,ISO,RGD:1306640 ,J:155856 
+MGI:1201789,Rpl36a,ribosomal protein L36A,X,,cytosolic large ribosomal subunit,,,ISO,P83881 ,J:164563 
+MGI:1201789,Rpl36a,ribosomal protein L36A,X,,cytosolic ribosome,,,ISO,P83881 ,J:164563 
+MGI:3642585,Rpl36a-ps1,"ribosomal protein L36A, pseudogene 1",14,,cytosolic large ribosomal subunit,,,IBA,PTN000042522 ,J:265628 
+MGI:1913733,Rpl36al,ribosomal protein L36A-like,12,,cytosolic large ribosomal subunit,,,ISO,RGD:1306640 ,J:155856 
+MGI:1913733,Rpl36al,ribosomal protein L36A-like,12,,cytosolic large ribosomal subunit,,,ISO,P83881 ,J:164563 
+MGI:1913733,Rpl36al,ribosomal protein L36A-like,12,,cytosolic ribosome,,,ISO,P83881 ,J:164563 
+MGI:1914531,Rpl37,ribosomal protein L37,15,,cytosolic large ribosomal subunit,,,IBA,PTN000080456 ,J:265628 
+MGI:1914531,Rpl37,ribosomal protein L37,15,,cytosolic large ribosomal subunit,,,ISO,RGD:621204 ,J:155856 
+MGI:1914531,Rpl37,ribosomal protein L37,15,,cytosolic large ribosomal subunit,,,ISO,P61927 ,J:164563 
+MGI:1914531,Rpl37,ribosomal protein L37,15,,cytosolic ribosome,,,ISO,P61927 ,J:164563 
+MGI:98068,Rpl37a,ribosomal protein L37a,1,,cytosolic large ribosomal subunit,,,IBA,PTN008298523 ,J:265628 
+MGI:98068,Rpl37a,ribosomal protein L37a,1,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:98068,Rpl37a,ribosomal protein L37a,1,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:98068,Rpl37a,ribosomal protein L37a,1,,cytosolic large ribosomal subunit,,,ISO,P61513 ,J:164563 
+MGI:98068,Rpl37a,ribosomal protein L37a,1,,cytosolic ribosome,,,ISO,P61513 ,J:164563 
+MGI:3651519,Rpl37rt,"ribosomal protein L37, retrotransposed",5,,cytosolic large ribosomal subunit,,,ISO,RGD:621204 ,J:155856 
+MGI:3651519,Rpl37rt,"ribosomal protein L37, retrotransposed",5,,cytosolic large ribosomal subunit,,,ISO,P61927 ,J:164563 
+MGI:3651519,Rpl37rt,"ribosomal protein L37, retrotransposed",5,,cytosolic ribosome,,,ISO,P61927 ,J:164563 
+MGI:1914921,Rpl38,ribosomal protein L38,11,,cytosolic large ribosomal subunit,,,IBA,PTN000103359 ,J:265628 
+MGI:1914921,Rpl38,ribosomal protein L38,11,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1914921,Rpl38,ribosomal protein L38,11,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1914921,Rpl38,ribosomal protein L38,11,,cytosolic large ribosomal subunit,,,ISO,RGD:1305573 ,J:155856 
+MGI:1914921,Rpl38,ribosomal protein L38,11,,cytosolic large ribosomal subunit,,,ISO,P63173 ,J:164563 
+MGI:1914921,Rpl38,ribosomal protein L38,11,,cytosolic ribosome,,,ISO,P63173 ,J:164563 
+MGI:1914498,Rpl39,ribosomal protein L39,X,,cytosolic large ribosomal subunit,,,IBA,PTN000463054 ,J:265628 
+MGI:1914498,Rpl39,ribosomal protein L39,X,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1914498,Rpl39,ribosomal protein L39,X,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1914498,Rpl39,ribosomal protein L39,X,,cytosolic large ribosomal subunit,,,ISO,RGD:3593 ,J:155856 
+MGI:1914498,Rpl39,ribosomal protein L39,X,,cytosolic large ribosomal subunit,,,ISO,P62891 ,J:164563 
+MGI:1914498,Rpl39,ribosomal protein L39,X,,cytosolic ribosome,,,ISO,P62891 ,J:164563 
+MGI:1915422,Rpl39l,ribosomal protein L39-like,16,,cytosolic large ribosomal subunit,,,IBA,PTN000463054 ,J:265628 
+MGI:1915422,Rpl39l,ribosomal protein L39-like,16,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1915195,Rpl41,ribosomal protein L41,10,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:1915195,Rpl41,ribosomal protein L41,10,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1927636,Rplp0,"ribosomal protein, large, P0",5,,cytosolic large ribosomal subunit,,,IBA,PTN000474664 ,J:265628 
+MGI:1927636,Rplp0,"ribosomal protein, large, P0",5,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1927636,Rplp0,"ribosomal protein, large, P0",5,,cytosolic large ribosomal subunit,,,ISO,P05388 ,J:164563 
+MGI:1927636,Rplp0,"ribosomal protein, large, P0",5,,cytosolic ribosome,,,ISO,P05388 ,J:164563 
+MGI:1927099,Rplp1,"ribosomal protein, large, P1",9,,cytosolic large ribosomal subunit,,,IBA,PTN000474938 ,J:265628 
+MGI:1927099,Rplp1,"ribosomal protein, large, P1",9,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1927099,Rplp1,"ribosomal protein, large, P1",9,,cytosolic large ribosomal subunit,,,ISO,RGD:621774 ,J:155856 
+MGI:1927099,Rplp1,"ribosomal protein, large, P1",9,,cytosolic large ribosomal subunit,,,ISO,P05386 ,J:164563 
+MGI:1927099,Rplp1,"ribosomal protein, large, P1",9,,cytosolic ribosome,,,ISO,P05386 ,J:164563 
+MGI:1914436,Rplp2,"ribosomal protein, large P2",7,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:1914436,Rplp2,"ribosomal protein, large P2",7,,cytosolic large ribosomal subunit,,,ISO,RGD:621775 ,J:155856 
+MGI:1914436,Rplp2,"ribosomal protein, large P2",7,,cytosolic large ribosomal subunit,,,ISO,P05387 ,J:164563 
+MGI:3826366,Rplp2-ps1,"ribosomal protein, large P2, pseudogene 1",12,,cytosolic large ribosomal subunit,,,ISO,RGD:621775 ,J:155856 
+MGI:3826366,Rplp2-ps1,"ribosomal protein, large P2, pseudogene 1",12,,cytosolic large ribosomal subunit,,,ISO,P05387 ,J:164563 
+MGI:105110,Rps2,ribosomal protein S2,17,,cytosolic ribosome,,,ISO,P15880 ,J:164563 
+MGI:105110,Rps2,ribosomal protein S2,17,,cytosolic small ribosomal subunit,,,IBA,PTN000346706 ,J:265628 
+MGI:105110,Rps2,ribosomal protein S2,17,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:105110,Rps2,ribosomal protein S2,17,,cytosolic small ribosomal subunit,,,ISO,RGD:619887 ,J:155856 
+MGI:105110,Rps2,ribosomal protein S2,17,,cytosolic small ribosomal subunit,,,ISO,P15880 ,J:164563 
+MGI:105110,Rps2,ribosomal protein S2,17,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1350917,Rps3,ribosomal protein S3,7,,cytosolic ribosome,,,ISO,P23396 ,J:164563 
+MGI:1350917,Rps3,ribosomal protein S3,7,,cytosolic small ribosomal subunit,,,IBA,PTN000205057 ,J:265628 
+MGI:1350917,Rps3,ribosomal protein S3,7,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1350917,Rps3,ribosomal protein S3,7,,cytosolic small ribosomal subunit,,,ISO,RGD:619888 ,J:155856 
+MGI:1350917,Rps3,ribosomal protein S3,7,,cytosolic small ribosomal subunit,,,ISO,P23396 ,J:164563 
+MGI:1350917,Rps3,ribosomal protein S3,7,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1202063,Rps3a1,ribosomal protein S3A1,3,,cytosolic ribosome,,,ISO,P61247 ,J:164563 
+MGI:1202063,Rps3a1,ribosomal protein S3A1,3,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1202063,Rps3a1,ribosomal protein S3A1,3,,cytosolic small ribosomal subunit,,,ISO,RGD:62078 ,J:155856 
+MGI:1202063,Rps3a1,ribosomal protein S3A1,3,,cytosolic small ribosomal subunit,,,ISO,P61247 ,J:164563 
+MGI:1202063,Rps3a1,ribosomal protein S3A1,3,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1913434,Rps4l,ribosomal protein S4-like,6,,cytosolic small ribosomal subunit,is a part of testis,,IDA,,J:197929 
+MGI:98158,Rps4x,"ribosomal protein S4, X-linked",X,,cytosolic ribosome,,,ISO,P62701 ,J:164563 
+MGI:98158,Rps4x,"ribosomal protein S4, X-linked",X,,cytosolic small ribosomal subunit,,,IBA,PTN000171891 ,J:265628 
+MGI:98158,Rps4x,"ribosomal protein S4, X-linked",X,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:98158,Rps4x,"ribosomal protein S4, X-linked",X,,cytosolic small ribosomal subunit,,,ISO,P62701 ,J:164563 
+MGI:98158,Rps4x,"ribosomal protein S4, X-linked",X,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1097682,Rps5,ribosomal protein S5,7,,cytosolic ribosome,,,ISO,P46782 ,J:164563 
+MGI:1097682,Rps5,ribosomal protein S5,7,,cytosolic small ribosomal subunit,,,IBA,PTN000128891 ,J:265628 
+MGI:1097682,Rps5,ribosomal protein S5,7,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1097682,Rps5,ribosomal protein S5,7,,cytosolic small ribosomal subunit,,,ISO,RGD:3601 ,J:155856 
+MGI:1097682,Rps5,ribosomal protein S5,7,,cytosolic small ribosomal subunit,,,ISO,P46782 ,J:164563 
+MGI:1097682,Rps5,ribosomal protein S5,7,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:98159,Rps6,ribosomal protein S6,4,,cytosolic ribosome,,,ISO,P62753 ,J:164563 
+MGI:98159,Rps6,ribosomal protein S6,4,,cytosolic small ribosomal subunit,is a part of testis,,IDA,,J:197929 
+MGI:98159,Rps6,ribosomal protein S6,4,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:98159,Rps6,ribosomal protein S6,4,,cytosolic small ribosomal subunit,,,ISO,RGD:3602 ,J:155856 
+MGI:98159,Rps6,ribosomal protein S6,4,,cytosolic small ribosomal subunit,,,ISO,P62753 ,J:164563 
+MGI:98159,Rps6,ribosomal protein S6,4,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:3650907,Rps6-ps4,"ribosomal protein S6, pseudogene 4",2,,cytosolic ribosome,,,ISO,P62753 ,J:164563 
+MGI:3650907,Rps6-ps4,"ribosomal protein S6, pseudogene 4",2,,cytosolic small ribosomal subunit,,,ISO,RGD:3602 ,J:155856 
+MGI:3650907,Rps6-ps4,"ribosomal protein S6, pseudogene 4",2,,cytosolic small ribosomal subunit,,,ISO,P62753 ,J:164563 
+MGI:1333818,Rps7,ribosomal protein S7,12,,cytosolic ribosome,,,ISO,P62081 ,J:164563 
+MGI:1333818,Rps7,ribosomal protein S7,12,,cytosolic small ribosomal subunit,,,IBA,PTN000138848 ,J:265628 
+MGI:1333818,Rps7,ribosomal protein S7,12,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1333818,Rps7,ribosomal protein S7,12,,cytosolic small ribosomal subunit,,,ISO,RGD:61907 ,J:155856 
+MGI:1333818,Rps7,ribosomal protein S7,12,,cytosolic small ribosomal subunit,,,ISO,P62081 ,J:164563 
+MGI:1333818,Rps7,ribosomal protein S7,12,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:98166,Rps8,ribosomal protein S8,4,,cytosolic ribosome,,,ISO,P62241 ,J:164563 
+MGI:98166,Rps8,ribosomal protein S8,4,,cytosolic small ribosomal subunit,,,IBA,PTN000044490 ,J:265628 
+MGI:98166,Rps8,ribosomal protein S8,4,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:98166,Rps8,ribosomal protein S8,4,,cytosolic small ribosomal subunit,,,ISO,RGD:61910 ,J:155856 
+MGI:98166,Rps8,ribosomal protein S8,4,,cytosolic small ribosomal subunit,,,ISO,P62241 ,J:164563 
+MGI:98166,Rps8,ribosomal protein S8,4,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1924096,Rps9,ribosomal protein S9,7,,cytosolic ribosome,,,ISO,P46781 ,J:164563 
+MGI:1924096,Rps9,ribosomal protein S9,7,,cytosolic small ribosomal subunit,,,IBA,PTN000216553 ,J:265628 
+MGI:1924096,Rps9,ribosomal protein S9,7,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1924096,Rps9,ribosomal protein S9,7,,cytosolic small ribosomal subunit,,,ISO,RGD:619889 ,J:155856 
+MGI:1924096,Rps9,ribosomal protein S9,7,,cytosolic small ribosomal subunit,,,ISO,P46781 ,J:164563 
+MGI:1924096,Rps9,ribosomal protein S9,7,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1914347,Rps10,ribosomal protein S10,17,,cytosolic ribosome,,,ISO,P46783 ,J:164563 
+MGI:1914347,Rps10,ribosomal protein S10,17,,cytosolic small ribosomal subunit,,,IBA,PTN000254423 ,J:265628 
+MGI:1914347,Rps10,ribosomal protein S10,17,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1914347,Rps10,ribosomal protein S10,17,,cytosolic small ribosomal subunit,,,ISO,RGD:621024 ,J:155856 
+MGI:1914347,Rps10,ribosomal protein S10,17,,cytosolic small ribosomal subunit,,,ISO,P46783 ,J:164563 
+MGI:1914347,Rps10,ribosomal protein S10,17,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1351329,Rps11,ribosomal protein S11,7,,cytosolic ribosome,,,ISO,P62280 ,J:164563 
+MGI:1351329,Rps11,ribosomal protein S11,7,,cytosolic small ribosomal subunit,,,IBA,PTN000078534 ,J:265628 
+MGI:1351329,Rps11,ribosomal protein S11,7,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1351329,Rps11,ribosomal protein S11,7,,cytosolic small ribosomal subunit,,,ISO,RGD:621026 ,J:155856 
+MGI:1351329,Rps11,ribosomal protein S11,7,,cytosolic small ribosomal subunit,,,ISO,P62280 ,J:164563 
+MGI:1351329,Rps11,ribosomal protein S11,7,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:98105,Rps12,ribosomal protein S12,10,,cytosolic large ribosomal subunit,,,ISO,RGD:62024 ,J:155856 
+MGI:98105,Rps12,ribosomal protein S12,10,,cytosolic ribosome,,,ISO,P25398 ,J:164563 
+MGI:98105,Rps12,ribosomal protein S12,10,,cytosolic small ribosomal subunit,,,IBA,PTN000217533 ,J:265628 
+MGI:98105,Rps12,ribosomal protein S12,10,,cytosolic small ribosomal subunit,,,ISO,RGD:62024 ,J:155856 
+MGI:98105,Rps12,ribosomal protein S12,10,,cytosolic small ribosomal subunit,,,ISO,P25398 ,J:164563 
+MGI:98105,Rps12,ribosomal protein S12,10,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1915302,Rps13,ribosomal protein S13,7,,cytosolic ribosome,,,ISO,P62277 ,J:164563 
+MGI:1915302,Rps13,ribosomal protein S13,7,,cytosolic small ribosomal subunit,,,IBA,PTN000223267 ,J:265628 
+MGI:1915302,Rps13,ribosomal protein S13,7,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1915302,Rps13,ribosomal protein S13,7,,cytosolic small ribosomal subunit,,,ISO,RGD:621027 ,J:155856 
+MGI:1915302,Rps13,ribosomal protein S13,7,,cytosolic small ribosomal subunit,,,ISO,P62277 ,J:164563 
+MGI:1915302,Rps13,ribosomal protein S13,7,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:98107,Rps14,ribosomal protein S14,18,,cytosolic ribosome,,,ISO,P62263 ,J:164563 
+MGI:98107,Rps14,ribosomal protein S14,18,,cytosolic small ribosomal subunit,,,IBA,PTN000204886 ,J:265628 
+MGI:98107,Rps14,ribosomal protein S14,18,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:98107,Rps14,ribosomal protein S14,18,,cytosolic small ribosomal subunit,,,ISO,RGD:62025 ,J:155856 
+MGI:98107,Rps14,ribosomal protein S14,18,,cytosolic small ribosomal subunit,,,ISO,P62263 ,J:164563 
+MGI:98107,Rps14,ribosomal protein S14,18,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:98117,Rps15,ribosomal protein S15,10,,cytosolic ribosome,,,ISO,P62841 ,J:164563 
+MGI:98117,Rps15,ribosomal protein S15,10,,cytosolic small ribosomal subunit,,,IBA,PTN000222938 ,J:265628 
+MGI:98117,Rps15,ribosomal protein S15,10,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:98117,Rps15,ribosomal protein S15,10,,cytosolic small ribosomal subunit,,,ISO,RGD:62026 ,J:155856 
+MGI:98117,Rps15,ribosomal protein S15,10,,cytosolic small ribosomal subunit,,,ISO,P62841 ,J:164563 
+MGI:98117,Rps15,ribosomal protein S15,10,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:2389091,Rps15a,ribosomal protein S15A,7,,cytosolic ribosome,,,ISO,P62244 ,J:164563 
+MGI:2389091,Rps15a,ribosomal protein S15A,7,,cytosolic small ribosomal subunit,,,IBA,PTN000204723 ,J:265628 
+MGI:2389091,Rps15a,ribosomal protein S15A,7,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:2389091,Rps15a,ribosomal protein S15A,7,,cytosolic small ribosomal subunit,,,ISO,RGD:619939 ,J:155856 
+MGI:2389091,Rps15a,ribosomal protein S15A,7,,cytosolic small ribosomal subunit,,,ISO,P62244 ,J:164563 
+MGI:2389091,Rps15a,ribosomal protein S15A,7,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:98118,Rps16,ribosomal protein S16,7,,cytosolic ribosome,,,ISO,P62249 ,J:164563 
+MGI:98118,Rps16,ribosomal protein S16,7,,cytosolic small ribosomal subunit,,,IBA,PTN000490831 ,J:265628 
+MGI:98118,Rps16,ribosomal protein S16,7,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:98118,Rps16,ribosomal protein S16,7,,cytosolic small ribosomal subunit,,,ISO,RGD:621031 ,J:155856 
+MGI:98118,Rps16,ribosomal protein S16,7,,cytosolic small ribosomal subunit,,,ISO,P62249 ,J:164563 
+MGI:98118,Rps16,ribosomal protein S16,7,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1309526,Rps17,ribosomal protein S17,7,,cytosolic ribosome,,,ISO,P08708 ,J:164563 
+MGI:1309526,Rps17,ribosomal protein S17,7,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1309526,Rps17,ribosomal protein S17,7,,cytosolic small ribosomal subunit,,,ISO,RGD:62027 ,J:155856 
+MGI:1309526,Rps17,ribosomal protein S17,7,,cytosolic small ribosomal subunit,,,ISO,NM_017152 ,J:49833 
+MGI:1309526,Rps17,ribosomal protein S17,7,,cytosolic small ribosomal subunit,,,ISO,P08708 ,J:164563 
+MGI:1309526,Rps17,ribosomal protein S17,7,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:98146,Rps18,ribosomal protein S18,17,,cytosolic ribosome,,,ISO,P62269 ,J:164563 
+MGI:98146,Rps18,ribosomal protein S18,17,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:98146,Rps18,ribosomal protein S18,17,,cytosolic small ribosomal subunit,,,ISO,RGD:3595 ,J:155856 
+MGI:98146,Rps18,ribosomal protein S18,17,,cytosolic small ribosomal subunit,,,ISO,P62269 ,J:164563 
+MGI:98146,Rps18,ribosomal protein S18,17,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1333780,Rps19,ribosomal protein S19,7,,cytosolic ribosome,,,ISO,P39019 ,J:164563 
+MGI:1333780,Rps19,ribosomal protein S19,7,,cytosolic small ribosomal subunit,,,IBA,PTN000194951 ,J:265628 
+MGI:1333780,Rps19,ribosomal protein S19,7,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1333780,Rps19,ribosomal protein S19,7,,cytosolic small ribosomal subunit,,,ISO,RGD:68440 ,J:155856 
+MGI:1333780,Rps19,ribosomal protein S19,7,,cytosolic small ribosomal subunit,,,ISO,P39019 ,J:164563 
+MGI:1333780,Rps19,ribosomal protein S19,7,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1914677,Rps20,ribosomal protein S20,4,,cytosolic ribosome,,,ISO,P60866 ,J:164563 
+MGI:1914677,Rps20,ribosomal protein S20,4,,cytosolic small ribosomal subunit,,,IBA,PTN000193513 ,J:265628 
+MGI:1914677,Rps20,ribosomal protein S20,4,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1914677,Rps20,ribosomal protein S20,4,,cytosolic small ribosomal subunit,,,ISO,RGD:621037 ,J:155856 
+MGI:1914677,Rps20,ribosomal protein S20,4,,cytosolic small ribosomal subunit,,,ISO,P60866 ,J:164563 
+MGI:1914677,Rps20,ribosomal protein S20,4,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1913731,Rps21,ribosomal protein S21,2,,cytosolic ribosome,,,ISO,P63220 ,J:164563 
+MGI:1913731,Rps21,ribosomal protein S21,2,,cytosolic small ribosomal subunit,,,IBA,PTN000047682 ,J:265628 
+MGI:1913731,Rps21,ribosomal protein S21,2,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1913731,Rps21,ribosomal protein S21,2,,cytosolic small ribosomal subunit,,,ISO,RGD:621038 ,J:155856 
+MGI:1913731,Rps21,ribosomal protein S21,2,,cytosolic small ribosomal subunit,,,ISO,P63220 ,J:164563 
+MGI:1913731,Rps21,ribosomal protein S21,2,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1913725,Rps23,ribosomal protein S23,13,,cytosolic ribosome,,,ISO,P62266 ,J:164563 
+MGI:1913725,Rps23,ribosomal protein S23,13,,cytosolic small ribosomal subunit,,,IBA,PTN000183001 ,J:265628 
+MGI:1913725,Rps23,ribosomal protein S23,13,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1913725,Rps23,ribosomal protein S23,13,,cytosolic small ribosomal subunit,,,ISO,RGD:621039 ,J:155856 
+MGI:1913725,Rps23,ribosomal protein S23,13,,cytosolic small ribosomal subunit,,,ISO,P62266 ,J:164563 
+MGI:1913725,Rps23,ribosomal protein S23,13,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:98147,Rps24,ribosomal protein S24,14,,cytosolic ribosome,,,ISO,P62847 ,J:164563 
+MGI:98147,Rps24,ribosomal protein S24,14,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:98147,Rps24,ribosomal protein S24,14,,cytosolic small ribosomal subunit,,,ISO,RGD:621040 ,J:155856 
+MGI:98147,Rps24,ribosomal protein S24,14,,cytosolic small ribosomal subunit,,,ISO,NM_033022 ,J:1948 
+MGI:98147,Rps24,ribosomal protein S24,14,,cytosolic small ribosomal subunit,,,ISO,P62847 ,J:164563 
+MGI:98147,Rps24,ribosomal protein S24,14,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1922867,Rps25,ribosomal protein S25,9,,cytosolic ribosome,,,ISO,P62851 ,J:164563 
+MGI:1922867,Rps25,ribosomal protein S25,9,,cytosolic small ribosomal subunit,,,IBA,PTN000982949 ,J:265628 
+MGI:1922867,Rps25,ribosomal protein S25,9,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1922867,Rps25,ribosomal protein S25,9,,cytosolic small ribosomal subunit,,,ISO,RGD:621043 ,J:155856 
+MGI:1922867,Rps25,ribosomal protein S25,9,,cytosolic small ribosomal subunit,,,ISO,P62851 ,J:164563 
+MGI:1922867,Rps25,ribosomal protein S25,9,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1351628,Rps26,ribosomal protein S26,10,,cytosolic small ribosomal subunit,,,IBA,PTN000283756 ,J:265628 
+MGI:1351628,Rps26,ribosomal protein S26,10,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1351628,Rps26,ribosomal protein S26,10,,cytosolic small ribosomal subunit,,,ISO,RGD:621044 ,J:155856 
+MGI:1351628,Rps26,ribosomal protein S26,10,,cytosolic small ribosomal subunit,,,ISO,P62854 ,J:164563 
+MGI:1351628,Rps26,ribosomal protein S26,10,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1888676,Rps27,ribosomal protein S27,3,,cytosolic ribosome,,,ISO,P42677 ,J:164563 
+MGI:1888676,Rps27,ribosomal protein S27,3,,cytosolic small ribosomal subunit,,,IBA,PTN000174285 ,J:265628 
+MGI:1888676,Rps27,ribosomal protein S27,3,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1888676,Rps27,ribosomal protein S27,3,,cytosolic small ribosomal subunit,,,ISO,RGD:621045 ,J:155856 
+MGI:1888676,Rps27,ribosomal protein S27,3,,cytosolic small ribosomal subunit,,,ISO,P42677 ,J:164563 
+MGI:1925544,Rps27a,ribosomal protein S27A,11,,cytosolic ribosome,,,ISO,P62979 ,J:164563 
+MGI:1925544,Rps27a,ribosomal protein S27A,11,,cytosolic small ribosomal subunit,,,ISO,RGD:620240 ,J:155856 
+MGI:1925544,Rps27a,ribosomal protein S27A,11,,cytosolic small ribosomal subunit,,,ISO,RGD:6489478 ,J:155856 
+MGI:1925544,Rps27a,ribosomal protein S27A,11,,cytosolic small ribosomal subunit,,,ISO,P62979 ,J:164563 
+MGI:1925544,Rps27a,ribosomal protein S27A,11,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1915191,Rps27l,ribosomal protein S27-like,9,,cytosolic small ribosomal subunit,,,IBA,PTN000174285 ,J:265628 
+MGI:3704345,Rps27rt,"ribosomal protein S27, retrogene",9,,cytosolic ribosome,,,ISO,P42677 ,J:164563 
+MGI:3704345,Rps27rt,"ribosomal protein S27, retrogene",9,,cytosolic small ribosomal subunit,,,ISO,RGD:621045 ,J:155856 
+MGI:3704345,Rps27rt,"ribosomal protein S27, retrogene",9,,cytosolic small ribosomal subunit,,,ISO,P42677 ,J:164563 
+MGI:1859516,Rps28,ribosomal protein S28,17,,cytosolic small ribosomal subunit,,,IBA,PTN000080571 ,J:265628 
+MGI:1859516,Rps28,ribosomal protein S28,17,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:1859516,Rps28,ribosomal protein S28,17,,cytosolic small ribosomal subunit,,,ISO,RGD:621046 ,J:155856 
+MGI:1859516,Rps28,ribosomal protein S28,17,,cytosolic small ribosomal subunit,,,ISO,P62857 ,J:164563 
+MGI:1859516,Rps28,ribosomal protein S28,17,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:107681,Rps29,ribosomal protein S29,12,,cytosolic small ribosomal subunit,,,IBA,PTN000244187 ,J:265628 
+MGI:107681,Rps29,ribosomal protein S29,12,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:107681,Rps29,ribosomal protein S29,12,,cytosolic small ribosomal subunit,,,ISO,L31610 ,J:35064 
+MGI:107681,Rps29,ribosomal protein S29,12,,cytosolic small ribosomal subunit,,,ISO,RGD:3596 ,J:155856 
+MGI:107681,Rps29,ribosomal protein S29,12,,cytosolic small ribosomal subunit,,,ISO,P62273 ,J:164563 
+MGI:107681,Rps29,ribosomal protein S29,12,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:105381,Rpsa,ribosomal protein SA,9,,cytosolic ribosome,,,ISO,P08865 ,J:164563 
+MGI:105381,Rpsa,ribosomal protein SA,9,,cytosolic small ribosomal subunit,,,IBA,PTN000160708 ,J:265628 
+MGI:105381,Rpsa,ribosomal protein SA,9,,cytosolic small ribosomal subunit,,,IDA,,J:333015 
+MGI:105381,Rpsa,ribosomal protein SA,9,,cytosolic small ribosomal subunit,,,ISO,RGD:71026 ,J:155856 
+MGI:105381,Rpsa,ribosomal protein SA,9,,cytosolic small ribosomal subunit,,,ISO,P08865 ,J:164563 
+MGI:105381,Rpsa,ribosomal protein SA,9,,cytosolic small ribosomal subunit,,,NAS,,J:314083 
+MGI:1913659,Rsl1d1,ribosomal L1 domain containing 1,16,,cytosolic large ribosomal subunit,,,IBA,PTN004606439 ,J:265628 
+MGI:893586,Snu13,"SNU13 homolog, small nuclear ribonucleoprotein (U4/U6.U5)",15,,cytosolic large ribosomal subunit,,,IBA,PTN004606439 ,J:265628 
+MGI:98887,Uba52,ubiquitin A-52 residue ribosomal protein fusion product 1,8,,cytosolic large ribosomal subunit,,,IDA,,J:333015 
+MGI:98887,Uba52,ubiquitin A-52 residue ribosomal protein fusion product 1,8,,cytosolic large ribosomal subunit,,,IPI,,J:314083 
+MGI:98887,Uba52,ubiquitin A-52 residue ribosomal protein fusion product 1,8,,cytosolic large ribosomal subunit,,,ISO,RGD:68344 ,J:155856 
+MGI:98887,Uba52,ubiquitin A-52 residue ribosomal protein fusion product 1,8,,cytosolic large ribosomal subunit,,,ISO,P62987 ,J:164563 
+MGI:98887,Uba52,ubiquitin A-52 residue ribosomal protein fusion product 1,8,,cytosolic ribosome,,,ISO,P62987 ,J:164563 
+MGI:98887,Uba52,ubiquitin A-52 residue ribosomal protein fusion product 1,8,,cytosolic small ribosomal subunit,,,IBA,PTN008503435 ,J:265628 
+MGI:3644625,Uba52-ps,"ubitquitin A-52 residue ribosomal protein fusion product 1, pseudogene",9,,cytosolic large ribosomal subunit,,,ISO,P62987 ,J:164563 
+MGI:3644625,Uba52-ps,"ubitquitin A-52 residue ribosomal protein fusion product 1, pseudogene",9,,cytosolic ribosome,,,ISO,P62987 ,J:164563 
+MGI:3649356,Uba52rt,"ubiquitin A-52 residue ribosomal protein fusion product 1, retrotransposed",4,,cytosolic large ribosomal subunit,,,ISO,RGD:68344 ,J:155856 
+MGI:3649356,Uba52rt,"ubiquitin A-52 residue ribosomal protein fusion product 1, retrotransposed",4,,cytosolic large ribosomal subunit,,,ISO,P62987 ,J:164563 
+MGI:3649356,Uba52rt,"ubiquitin A-52 residue ribosomal protein fusion product 1, retrotransposed",4,,cytosolic ribosome,,,ISO,P62987 ,J:164563 
+MGI:98888,Ubb,ubiquitin B,11,,cytosolic small ribosomal subunit,,,IBA,PTN008503435 ,J:265628 
+MGI:1919955,Zcchc17,"zinc finger, CCHC domain containing 17",4,,cytosolic large ribosomal subunit,,,IDA,,J:80171 
+MGI:2670965,Zfp598,zinc finger protein 598,17,,cytosolic ribosome,,,ISO,Q86UK7 ,J:164563 

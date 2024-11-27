@@ -1,0 +1,10 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"mmu04360","mmu04360","Axon guidance - Mus musculus (house mouse)","16/167","181/9190",1.64785668635364e-07,3.90542034665813e-05,3.45182611141447e-05,"Lrrc4c/Unc5c/Pak1/Ptk2/Dpysl2/Sema6d/Robo1/Gnai1/Ssh2/Dcc/Rock1/Gsk3b/Pik3r1/Arhgef12/Ppp3ca/Ephb1",16
+"mmu05100","mmu05100","Bacterial invasion of epithelial cells - Mus musculus (house mouse)","9/167","76/9190",8.74227256035903e-06,0.00103595929840254,0.000915638020795498,"Ctnna3/Ctnna2/Dock1/Ptk2/Actr2/Elmo1/Dnm3/Gab1/Pik3r1",9
+"mmu04514","mmu04514","Cell adhesion molecules - Mus musculus (house mouse)","13/167","182/9190",2.57217993191355e-05,0.00199232982695631,0.00176093109289055,"Mag/Ptprd/Cldn11/Cntn2/Ncam2/Ncam1/Lrrc4c/Nfasc/Cadm1/Cdh2/Nlgn1/Negr1/Glg1",13
+"mmu04144","mmu04144","Endocytosis - Mus musculus (house mouse)","16/167","272/9190",3.36258198642416e-05,0.00199232982695631,0.00176093109289055,"Mdm2/Cyth1/Bin1/Rab31/Actr2/Dnm3/Arap2/Epn2/Fgfr2/Amph/Iqsec1/Agap1/Itch/Gbf1/Sh3kbp1/Wipf1",16
+"mmu05135","mmu05135","Yersinia infection - Mus musculus (house mouse)","10/167","135/9190",0.000167483249335356,0.00793870601849587,0.00701666665636544,"Dock1/Arhgef28/Ptk2/Actr2/Elmo1/Rock1/Gsk3b/Pik3r1/Arhgef12/Wipf1",10
+"mmu04810","mmu04810","Regulation of actin cytoskeleton - Mus musculus (house mouse)","12/167","231/9190",0.00101061946155202,0.0399194687313047,0.0352830303243599,"Pip4k2a/Pak1/Dock1/Ptk2/Actr2/Fgfr2/Ssh2/Rock1/Pik3r1/Arhgef12/Gna12/Apc",12
+"mmu04666","mmu04666","Fc gamma R-mediated phagocytosis - Mus musculus (house mouse)","7/167","93/9190",0.00147370321693997,0.0426657926320501,0.0377103830058982,"Gab2/Pak1/Dock1/Bin1/Actr2/Amph/Pik3r1",7
+"mmu04072","mmu04072","Phospholipase D signaling pathway - Mus musculus (house mouse)","9/167","149/9190",0.00154664184364527,0.0426657926320501,0.0377103830058982,"Grm3/Gab2/Grm7/Cyth1/Dnm3/Gab1/Pik3r1/Gna12/Agpat4",9
+"mmu05226","mmu05226","Gastric cancer - Mus musculus (house mouse)","9/167","150/9190",0.00162021997336899,0.0426657926320501,0.0377103830058982,"Ctnna3/Ctnna2/Gab1/Fgfr2/Rb1/Gsk3b/Pik3r1/Apc/Csnk1a1",9

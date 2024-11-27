@@ -1,0 +1,22 @@
+X,p_val,avg_log2FC,pct.1,pct.2,p_val_adj,Gene,MGI.Gene.Marker.ID,Symbol,Name,Chr,Qualifier,Annotated.Term,Context,Proteoform,Evidence,Inferred.From,Reference.s.
+Arc,5.01E-18,-0.627929151,0.231,0.586,9.78E-14,Arc,MGI:88067,Arc,activity regulated cytoskeletal-associated protein,15,,modulation of chemical synaptic transmission,,,IMP,,J:276388 
+Arc,5.01E-18,-0.627929151,0.231,0.586,9.78E-14,Arc,MGI:88067,Arc,activity regulated cytoskeletal-associated protein,15,,modulation of chemical synaptic transmission,,,ISO,RGD:62037 ,J:155856 
+Arc,5.01E-18,-0.627929151,0.231,0.586,9.78E-14,Arc,MGI:88067,Arc,activity regulated cytoskeletal-associated protein,15,,regulation of long-term synaptic depression,,,IDA,,J:259121 
+Arc,5.01E-18,-0.627929151,0.231,0.586,9.78E-14,Arc,MGI:88067,Arc,activity regulated cytoskeletal-associated protein,15,,regulation of long-term synaptic potentiation,,,IBA,PTN008562333 ,J:265628 
+Arc,5.01E-18,-0.627929151,0.231,0.586,9.78E-14,Arc,MGI:88067,Arc,activity regulated cytoskeletal-associated protein,15,,regulation of long-term synaptic potentiation,,,IMP,,J:276388 
+Arc,5.01E-18,-0.627929151,0.231,0.586,9.78E-14,Arc,MGI:88067,Arc,activity regulated cytoskeletal-associated protein,15,,regulation of long-term synaptic potentiation,,,ISO,RGD:62037 ,J:155856 
+Arc,5.01E-18,-0.627929151,0.231,0.586,9.78E-14,Arc,MGI:88067,Arc,activity regulated cytoskeletal-associated protein,15,,regulation of neuronal synaptic plasticity,,,IBA,PTN008562333 ,J:265628 
+Egr1,5.35E-12,-0.506817189,0.605,0.814,1.04E-07,Egr1,MGI:95295,Egr1,early growth response 1,18,,regulation of long-term neuronal synaptic plasticity,,,ISO,RGD:2544 ,J:155856 
+Oxt,2.51E-22,-0.436596766,0.007,0.307,4.89E-18,Oxt,MGI:97453,Oxt,oxytocin,2,,positive regulation of synaptic transmission,,,ISO,RGD:3238 ,J:155856 
+Hcrt,7.08E-21,-0.417638608,0.004,0.282,1.38E-16,Hcrt,MGI:1202306,Hcrt,hypocretin,11,,regulation of neurotransmitter secretion,,,IBA,PTN002689309 ,J:265628 
+Hcrt,7.08E-21,-0.417638608,0.004,0.282,1.38E-16,Hcrt,MGI:1202306,Hcrt,hypocretin,11,,regulation of neurotransmitter secretion,,,ISO,RGD:2786 ,J:155856 
+Car2,1.01E-07,-0.366951664,0.299,0.525,0.001970362,Car2,MGI:88269,Car2,carbonic anhydrase 2,3,,"positive regulation of synaptic transmission, GABAergic",happens in pyramidal neuron,,IGI,MGI:103100 ,J:200079 
+Pmch,3.16E-11,-0.343169902,0.06,0.268,6.16E-07,Pmch,MGI:97629,Pmch,pro-melanin-concentrating hormone,10,,"negative regulation of synaptic transmission, dopaminergic",,,ISO,RGD:3358 ,J:155856 
+Pmch,3.16E-11,-0.343169902,0.06,0.268,6.16E-07,Pmch,MGI:97629,Pmch,pro-melanin-concentrating hormone,10,,regulation of neuronal synaptic plasticity,,,ISO,RGD:3358 ,J:155856 
+Dbi,2.18E-07,-0.295710893,0.875,0.961,0.004251069,Dbi,MGI:94865,Dbi,diazepam binding inhibitor,1,,long-term synaptic potentiation,,,IDA,,J:123254 
+Dbi,2.18E-07,-0.295710893,0.875,0.961,0.004251069,Dbi,MGI:94865,Dbi,diazepam binding inhibitor,1,,"regulation of synaptic transmission, GABAergic",,,ISO,P11030 ,J:73065 
+Snap25,3.07E-09,0.213031797,1,1,5.98E-05,Snap25,MGI:98331,Snap25,synaptosomal-associated protein 25,2,,long-term synaptic potentiation,,,IMP,,J:197846 
+Snap25,3.07E-09,0.213031797,1,1,5.98E-05,Snap25,MGI:98331,Snap25,synaptosomal-associated protein 25,2,,positive regulation of synaptic plasticity,,PR:P60879-2,EXP,MGI:3821974 ,J:94005 
+Snap25,3.07E-09,0.213031797,1,1,5.98E-05,Snap25,MGI:98331,Snap25,synaptosomal-associated protein 25,2,,short-term synaptic potentiation,,PR:P60879-2,EXP,MGI:3821974 ,J:94005 
+Cplx2,1.18E-07,0.695785215,0.719,0.668,0.002300112,Cplx2,MGI:104726,Cplx2,complexin 2,13,,positive regulation of synaptic plasticity,,,IDA,,J:172950 
+Cplx2,1.18E-07,0.695785215,0.719,0.668,0.002300112,Cplx2,MGI:104726,Cplx2,complexin 2,13,,regulation of neurotransmitter secretion,,,IBA,PTN000422952 ,J:265628 
