@@ -1,0 +1,26 @@
+﻿Upstream Regulator,Predicted Activation State,Activation z-score,p-value of overlap
+ESR1,Activated,3.394,4.16E-09
+TNF,Activated,3.377,6.45E-11
+IL1A,Activated,3.234,1.53E-01
+HIF1A,Activated,2.917,1.56E-03
+Ifnar,Activated,2.904,5.15E-03
+FN1,Activated,2.901,2.11E-05
+IL4,Activated,2.899,5.01E-04
+BHLHE40,Activated,2.889,1.76E-04
+EIF4E,Activated,2.77,3.42E-06
+PRL,Activated,2.641,4.53E-04
+IKBKB,Activated,2.639,3.84E-04
+TRAPPC1,Activated,2.63,2.44E-02
+Akt,Activated,2.619,1.40E-06
+TLR3,Activated,2.6,2.45E-01
+IFNB1,Activated,2.599,2.88E-01
+TLR4,Activated,2.583,8.97E-03
+IL27,Activated,2.571,9.54E-02
+CD3,Activated,2.566,3.29E-05
+ORAI1,Activated,2.496,2.07E-05
+IKBKG,Activated,2.396,2.83E-01
+IFNA2,Activated,2.35,6.30E-03
+STING1,Activated,2.335,1.72E-02
+TP63,Activated,2.33,5.97E-03
+P38 MAPK,Activated,2.315,1.74E-01
+TNFRSF1B,Activated,2.236,3.13E-01
